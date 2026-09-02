@@ -2,6 +2,253 @@
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
  "updated": "2026-09-02",
  "jobs": {
+  "jobspipe:4338662094": {
+   "label": "Low Match",
+   "score": 28,
+   "reason": "Candidate brings strong architecture, systems thinking, mentoring, and semiconductor domain knowledge (Cadence EDA/VLSI). However, role demands 12+ yrs ASIC RTL/HDL expertise (Verilog/SystemVerilog, synthesis, CDC, timing). Candidate's core",
+   "composite": "synopsys-inc|principal-engineer-asic-digital-design-die-to-die-communication-protocol|noida-uttar-pradesh-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate brings strong architecture, systems thinking, mentoring, and semiconductor domain knowledge (Cadence EDA/VLSI). However, role demands 12+ yrs ASIC RTL/HDL expertise (Verilog/SystemVerilog, synthesis, CDC, timing). Candidate's core",
+    "relevance": "Medium",
+    "technical_fit": "RTL/Verilog expertise absent; strong C++, architecture, systems design but no ASIC/HDL background. Protocol knowledge li",
+    "seniority_alignment": "Aligned at Principal level (13 yrs exp); leadership & mentoring present but domain-specific ASIC seniority unproven.",
+    "overall_quality": "Medium",
+    "company_assessment": "Synopsys: EDA/semiconductor IP design leader, ~$7B+ market cap. DesignWare IP team focuses on high-performance die-to-die protocols (UCIe, Ethernet, PCIe). Noid",
+    "quality_score": 28
+   }
+  },
+  "jobspipe:4343694056": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Candidate has strong architecture and systems thinking but minimal ASIC/SoC implementation or EDA tool expertise. Background is EDA platform (Cadence Virtuoso), not synthesis/STA. GenAI/consulting pivot recent. Role demands 15+ yrs ASIC/tim",
+   "composite": "renesas-electronics|principal-engineer-sta-synthesis|hyderabad-telangana-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture and systems thinking but minimal ASIC/SoC implementation or EDA tool expertise. Background is EDA platform (Cadence Virtuoso), not synthesis/STA. GenAI/consulting pivot recent. Role demands 15+ yrs ASIC/tim",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, scripting skills present; lacks deep STA/synthesis tool expertise (Synopsys/Cadence); no ASIC/SoC implement",
+    "seniority_alignment": "Overqualified in breadth (13yrs, architect-level), underqualified in depth for Principal role requiring 15+ yrs speciali",
+    "overall_quality": "Medium",
+    "company_assessment": "Renesas: ~21k employees, tier-1 semiconductor company, mature-node MCU/SoC focus. Global, established player in automotive/industrial/IoT.",
+    "quality_score": 35
+   }
+  },
+  "jobspipe:4411563657": {
+   "label": "Not Viable",
+   "score": 15,
+   "reason": "Candidate's background is software/systems-focused (multithreading, visualization, performance optimization, GenAI). Role requires hands-on analog circuit design expertise (ADCs, DACs, PLLs, regulators), multiple tape-outs, post-silicon val",
+   "composite": "marvell-technology|analog-design-senior-principal-engineer|bengaluru-karnataka-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": false,
+   "match": {
+    "label": "Not Viable",
+    "reason": "Candidate's background is software/systems-focused (multithreading, visualization, performance optimization, GenAI). Role requires hands-on analog circuit design expertise (ADCs, DACs, PLLs, regulators), multiple tape-outs, post-silicon val",
+    "relevance": "Low",
+    "technical_fit": "Candidate has C++, EDA tools (Cadence), and semiconductor domain knowledge from Cadence role, but lacks deep analog/mixe",
+    "seniority_alignment": "Candidate has 13 yrs experience (meets tenure), but prior roles were platform architecture, performance engineering, cus",
+    "overall_quality": "Low",
+    "company_assessment": "Marvell Technology is a large semiconductor company focusing on optical interconnect, silicon photonics, and advanced packaging. Role is Central Engineering hub",
+    "quality_score": 15
+   }
+  },
+  "jobspipe:4414197439": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate excels in Solutions Architecture, enterprise customer engagement, and system design. However, technical foundation is misaligned: deep expertise in EDA/VLSI, GenAI/RAG, and low-power chip design\u2014not cloud infrastructure, HPC clust",
+   "composite": "nvidia|senior-solution-architect-cloud-infrastructure-devops|mumbai-maharashtra-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate excels in Solutions Architecture, enterprise customer engagement, and system design. However, technical foundation is misaligned: deep expertise in EDA/VLSI, GenAI/RAG, and low-power chip design\u2014not cloud infrastructure, HPC clust",
+    "relevance": "Medium",
+    "technical_fit": "Python, REST APIs, distributed systems experience. Lacks: deep networking, HPC/cluster management, storage systems, cont",
+    "seniority_alignment": "Aligned. 13 yrs exp vs 8yr minimum + 5yr cluster mgmt. Level appropriate for Senior SA role.",
+    "overall_quality": "Medium",
+    "company_assessment": "NVIDIA: AI/HPC compute leader. Role focuses on large-scale cloud infrastructure, DevOps automation, networking for AI clusters. High-stakes customer-facing tech",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4430254056": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Excellent fit on GenAI systems, enterprise architecture, reliability mindset, and cross-functional influence. Strong LLM/agent hands-on work. Gaps: no explicit SRE ops background, limited cloud-native depth, no TensorFlow/PyTorch. Role brid",
+   "composite": "pepsico|application-site-reliability-engineer-ai-solutions-engineer|gurugram-haryana-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent fit on GenAI systems, enterprise architecture, reliability mindset, and cross-functional influence. Strong LLM/agent hands-on work. Gaps: no explicit SRE ops background, limited cloud-native depth, no TensorFlow/PyTorch. Role brid",
+    "relevance": "High",
+    "technical_fit": "Strong: LLMs, LangChain, Python, cloud (AWS); partial gaps in TensorFlow/PyTorch and MLOps pipelines",
+    "seniority_alignment": "Aligned: 13 years matches 12+ requirement; architect-level experience evident across GenAI, platform design, and enterpr",
+    "overall_quality": "High",
+    "company_assessment": "PepsiCo, large enterprise (260+ apps), seeking AI-enabled SRE architect to define ML/LLM patterns, observability, and reliability at scale across Azure/AWS/GCP",
+    "quality_score": 78
+   }
+  },
+  "jobspipe:4439601429": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate brings strong architecture, enterprise integration, and technical leadership credentials, but lacks Salesforce CDP/Data Cloud expertise\u2014the core technical requirement. GenAI/RAG background doesn't transfer directly. Healthcare/GxP",
+   "composite": "takeda|technical-lead|bengaluru-karnataka-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate brings strong architecture, enterprise integration, and technical leadership credentials, but lacks Salesforce CDP/Data Cloud expertise\u2014the core technical requirement. GenAI/RAG background doesn't transfer directly. Healthcare/GxP",
+    "relevance": "Medium",
+    "technical_fit": "CDP/Salesforce Data Cloud expertise missing; strong in system architecture, data pipelines, integration patterns but EDA",
+    "seniority_alignment": "Good alignment\u201413 yrs exp, led R&D teams, enterprise customer work; 'Technical Lead' tier matches adjacent target, thoug",
+    "overall_quality": "Medium",
+    "company_assessment": "Takeda: Large pharma co. launching Bengaluru Innovation Capability Center. Role supports Plasma-Derived Therapies business unit digital transformation via Sales",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4459706695": {
+   "label": "Low Match",
+   "score": 48,
+   "reason": "Strong solution architecture, enterprise stakeholder engagement, and recent GenAI expertise match role intent. Critical gaps: no .NET/React/Azure hands-on experience\u2014role explicitly requires full-stack proficiency in this specific stack. In",
+   "composite": "epam-systems|solution-architect-net|pune-division-maharashtra-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong solution architecture, enterprise stakeholder engagement, and recent GenAI expertise match role intent. Critical gaps: no .NET/React/Azure hands-on experience\u2014role explicitly requires full-stack proficiency in this specific stack. In",
+    "relevance": "Medium",
+    "technical_fit": "GenAI/architecture strong; .NET/React/Azure stack gap. C++ not transferable; Python useful but no .NET/Azure hands-on.",
+    "seniority_alignment": "13 yrs exp aligns with 12-15yr req. Solutions Architect role fits primary target. Leadership experience present.",
+    "overall_quality": "Medium",
+    "company_assessment": "EPAM Systems: large IT services/consulting firm, global presence. Pune location suggests India operations. Enterprise-focused, diverse tech stacks.",
+    "quality_score": 48
+   }
+  },
+  "jobspipe:4459709643": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate is strong architect with platform/performance/enterprise exposure and emerging GenAI depth. However, role demands Java+Azure expertise; candidate has neither. Technical stack mismatch (C++/Python vs. Java), no Azure cert/hands-on,",
+   "composite": "epam-systems|senior-solution-architect-java-azure|pune-division-maharashtra-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate is strong architect with platform/performance/enterprise exposure and emerging GenAI depth. However, role demands Java+Azure expertise; candidate has neither. Technical stack mismatch (C++/Python vs. Java), no Azure cert/hands-on,",
+    "relevance": "Medium",
+    "technical_fit": "C++/Python/GenAI expertise present; Java/Azure stack absent. Legacy modernization experience limited; cloud platforms kn",
+    "seniority_alignment": "13 yrs vs. 14-19 yrs required; architect-level experience present but Java/Azure depth below bar for senior role.",
+    "overall_quality": "Medium",
+    "company_assessment": "EPAM Systems: large EDA/IT services firm (~15k+ employees), legacy modernization focus. Pune-based delivery center.",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4459734550": {
+   "label": "Good Match",
+   "score": 72,
+   "reason": "Strong technical fit on RAG, agents, LLMs, and platform design. Proven ability to architect complex systems end-to-end and translate customer needs to product. Primary gaps: (1) depth of enterprise GenAI transformation leadership at org sca",
+   "composite": "talentgigs|ai-solutions-architect|chennai-tamil-nadu-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Good Match",
+    "reason": "Strong technical fit on RAG, agents, LLMs, and platform design. Proven ability to architect complex systems end-to-end and translate customer needs to product. Primary gaps: (1) depth of enterprise GenAI transformation leadership at org sca",
+    "relevance": "High",
+    "technical_fit": "Exceptional: RAG, agents, LLMs, multi-service orchestration, Python, C++, REST APIs. Direct hands-on GenAI system design",
+    "seniority_alignment": "Strong but gap: 13 yrs total experience vs 12+ required; however, only ~1.5 yrs dedicated GenAI work vs 5+ preferred. Ha",
+    "overall_quality": "High",
+    "company_assessment": "Talentgigs (inferred: enterprise AI/agentic platform SaaS, likely mid-stage). Seeking Principal-level architect to lead AI strategy & execution across engineeri",
+    "quality_score": 72
+   }
+  },
+  "jobspipe:4459745124": {
+   "label": "Good Match",
+   "score": 87,
+   "reason": "Candidate's 13 years span platform architecture, performance engineering, and direct applied GenAI system design (RAG, agents, multi-service automation). Recent hands-on GenAI consulting and Undo.io enterprise pre/post-sales architect role ",
+   "composite": "tata-consultancy-services|ai-architect|bangalore-urban-karnataka-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Good Match",
+    "reason": "Candidate's 13 years span platform architecture, performance engineering, and direct applied GenAI system design (RAG, agents, multi-service automation). Recent hands-on GenAI consulting and Undo.io enterprise pre/post-sales architect role ",
+    "relevance": "High",
+    "technical_fit": "Strong: C++, Python, LangChain, MCP, RAG, LLM APIs (OpenAI/Anthropic), Docker, AWS, PostgreSQL align well with mandatory",
+    "seniority_alignment": "Excellent fit: 13 years experience (role seeks 8\u201315); demonstrated architect-level ownership of complex systems, enterpr",
+    "overall_quality": "High",
+    "company_assessment": "TCS is India's largest IT services firm; this is an enterprise architect role within their AI/GenAI division, likely supporting large-scale customer transformat",
+    "quality_score": 87
+   }
+  },
+  "jobspipe:4459749533": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Strong technical foundation in applied GenAI (RAG, agents, LLM APIs), proven ability to translate complexity for stakeholders (enterprise customer engineer), and recent hands-on consulting work. Slight gap: limited evidence of formal execut",
+   "composite": "kolofon-ai|ai-architect-and-executive-masterclass-director|thiruvananthapuram-kerala-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Good Match",
+    "reason": "Strong technical foundation in applied GenAI (RAG, agents, LLM APIs), proven ability to translate complexity for stakeholders (enterprise customer engineer), and recent hands-on consulting work. Slight gap: limited evidence of formal execut",
+    "relevance": "High",
+    "technical_fit": "Expert in RAG, LLM APIs, agents, Python; hands-on with LangChain. Needs LangGraph/LangSmith depth; strong foundation pre",
+    "seniority_alignment": "Well-aligned. 13yrs exp, recent GenAI consulting, senior architect background. Executive facilitation less proven but cr",
+    "overall_quality": "High",
+    "company_assessment": "Campaign-driven AI education venture in India. Early-stage, high-growth posture. Seeks visible technical leadership + thought leadership for premium workshops.",
+    "quality_score": 78
+   }
+  },
+  "jobspipe:4459755064": {
+   "label": "Good Match",
+   "score": 87,
+   "reason": "Candidate's recent GenAI consulting (RAG, agents, orchestration) and 2.5yrs as Senior Customer Engineer at Undo.io (enterprise integration, feasibility translation, technical leadership) directly match role. Strong C++/Python, LangChain, RA",
+   "composite": "edmo|agentic-ai-architect|pune-division-maharashtra-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Good Match",
+    "reason": "Candidate's recent GenAI consulting (RAG, agents, orchestration) and 2.5yrs as Senior Customer Engineer at Undo.io (enterprise integration, feasibility translation, technical leadership) directly match role. Strong C++/Python, LangChain, RA",
+    "relevance": "High",
+    "technical_fit": "Excellent fit: 13yrs exp, recent hands-on GenAI/RAG/agents, LangChain, Python, LLM APIs, multi-agent orchestration, prod",
+    "seniority_alignment": "Strong alignment: Senior-level with 13yrs total, 2.5yrs recent applied GenAI, enterprise architecture & delivery track r",
+    "overall_quality": "High",
+    "company_assessment": "EDMO: conversational AI platform for higher education; scaling multi-agent systems at enterprise scale; Pune-based, hybrid role; stage/size inferred as growth-s",
+    "quality_score": 87
+   }
+  },
+  "jobspipe:4461015160": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate is overqualified in seniority but underqualified in required tech stack (Java/Spring/Angular/React). Strong in architecture & systems design; role focuses on full-stack coding & microservices. GenAI consulting pivot signals differ",
+   "composite": "confidential|java-full-stack-tech-lead|mumbai-maharashtra-india",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate is overqualified in seniority but underqualified in required tech stack (Java/Spring/Angular/React). Strong in architecture & systems design; role focuses on full-stack coding & microservices. GenAI consulting pivot signals differ",
+    "relevance": "Medium",
+    "technical_fit": "C++/Python background, not Java/Spring. GenAI focus diverges from full-stack web development.",
+    "seniority_alignment": "13 yrs experience exceeds 5+ requirement; Tech Lead tier appropriate but role emphasizes coding over architecture.",
+    "overall_quality": "Medium",
+    "company_assessment": "MNC client, likely enterprise software/services firm. Mumbai-based role; candidate in India (location compatible).",
+    "quality_score": 42
+   }
+  },
   "jobspipe:ae88c503c3d1b89a": {
    "label": "Low Match",
    "score": 42,
@@ -19,6 +266,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Warrior Tech Solutions appears to be a Databricks consulting/implementation partner. Role is forward-deployed resident architect for Databricks customers.",
     "quality_score": 42
+   }
+  },
+  "jobspipe:be18915bddc1a1af": {
+   "label": "Low Match",
+   "score": 58,
+   "reason": "Candidate has strong cross-functional technical translation, enterprise stakeholder management, and AI systems knowledge. However, lacks explicit ServiceNow platform expertise (critical requirement) and healthcare/claims domain experience (",
+   "composite": "optum|senior-technical-product-manager|hyderabad-telangana",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong cross-functional technical translation, enterprise stakeholder management, and AI systems knowledge. However, lacks explicit ServiceNow platform expertise (critical requirement) and healthcare/claims domain experience (",
+    "relevance": "Medium",
+    "technical_fit": "Strong on requirements gathering, workflow documentation, stakeholder management. Weak on ServiceNow platform experience",
+    "seniority_alignment": "Aligned. 13 years experience, senior-level technical liaison and engineering leadership background fits Senior TPM scope",
+    "overall_quality": "Medium",
+    "company_assessment": "Optum (UnitedHealth Group subsidiary): large healthcare/insurance conglomerate, regulated environment, focus on claims, workflows, care delivery tech. Enterpris",
+    "quality_score": 58
    }
   },
   "jobspipe:daf225e6542961c1": {
