@@ -1,0 +1,180 @@
+# ============================================================================
+# Job-Search Pipeline config. Copy to config.yaml and edit freely.
+# Everything here is a policy knob - the code reads these values, nothing is
+# hardcoded. Changing a value never breaks the pipeline.
+# ============================================================================
+
+run:
+  daily_cap: 30                 # max rows written to the sheet per run; never padded
+  posted_within_days: 15        # recency hard-filter window
+  timezone: Asia/Kolkata
+
+resume:
+  path: data/resume.pdf         # .pdf or .docx
+
+# ----------------------------------------------------------------------------
+# Role search anchors. These are substrings matched against job titles at
+# search time (not exact-title matching). The three tiers are all searched;
+# the tier a job matched is recorded and fed to the AI matcher as context.
+# ----------------------------------------------------------------------------
+roles:
+  primary:
+    - Solutions Architect
+    - Solution Architect
+    - Solutions Engineer
+    - Solution Engineer
+    - AI Architect
+    - Forward Deployed
+    - Customer Engineer
+
+  strong_adjacent:
+    - Technical Lead
+    - Tech Lead
+    - Principal Engineer
+
+  exploratory:
+    - AI Product Manager
+    - Technical Product Manager
+    - Technical Product Lead
+    - AI Product Lead
+
+  # Titles containing any of these substrings are excluded (job_title_not + local).
+  excluded_title_terms:
+    - consultant
+    - consulting
+    - intern
+    - internship
+    - junior
+    - trainee
+    - graduate
+    - fresher
+    - apprentice
+    - motor
+    - blower
+    - pump
+    - boiler
+    - hvac
+    - instrumentation
+    - mechanical
+    - hydraulic
+    - pneumatic
+    - welding
+    - automobile
+    - diesel
+    - fabrication
+    - valve
+    - bearing
+    - compressor
+    - transformer
+    - switchgear
+    - piping
+
+# ----------------------------------------------------------------------------
+# Geography / work arrangement / employment type
+# ----------------------------------------------------------------------------
+geography:
+  countries: [IN]               # ISO country codes to search
+  india_locations:              # accepted India locations (substring match on job location)
+    - Bengaluru
+    - Bangalore
+    - Mumbai
+    - Pune
+    - Hyderabad
+    - Chennai
+    - Gurugram
+    - Gurgaon
+    - Noida
+    - Delhi
+    - Delhi NCR
+    - New Delhi
+    - Kolkata
+    - Ahmedabad
+  allow_international_remote: false  # false = India jobs only (no second intl-remote search)
+  work_arrangements: [remote, hybrid, onsite]
+
+employment:
+  types: [full-time]
+
+# ----------------------------------------------------------------------------
+# Hard filters - deterministic, applied in code against the values below.
+# The AI step runs only on jobs that pass ALL of these and can never
+# override a hard-filter failure.
+# ----------------------------------------------------------------------------
+hard_filters:
+
+  recency:
+    days: 15
+    prefer_status_over_date: true   # if the posting has a status, use status=="active";
+                                    # otherwise fall back to date_posted within `days`
+
+  # Simple years-of-experience comparison.
+  seniority:
+    my_years_experience: auto       # "auto" = derive from the resume; or set a number to override
+    min_years: 10                   # ignore jobs that clearly ask for less than this
+    window_below: 3                 # accept JDs asking up to N years below mine
+    window_above: 4                 # accept JDs asking up to N years above mine
+    no_requirement_action: pass     # JD states no years requirement -> keep (AI judges seniority)
+    # Example: my_years=13 -> accept window [10, 17].
+    #   "10-12 years" pass | "8-15 years" pass | "14-17 years" pass
+    #   "5-7 years" reject (too junior) | "20+ years" reject (too senior)
+
+  salary:
+    enabled: true
+    min_lpa: 25                     # exclude jobs below this (in INR lakh per annum)
+    only_when_disclosed: true       # a job with no salary info is never excluded on salary
+    compare_on: max                 # use top of the band; pass if the top clears the bar
+    parse_raw_string: true          # if no annual figure, read salary_string and annualise
+                                    # (monthly x12, weekly x52, hourly x2080; only when the
+                                    #  period word is present - a bare number stays undisclosed)
+    inr_per_unit:                   # FX for converting disclosed foreign salaries to INR
+      INR: 1
+      USD: 88
+      EUR: 95
+      GBP: 110
+
+  geography:
+    require_match: true             # job must be an india_locations match OR (remote & allow_international_remote)
+
+  # Free-text role categories to always exclude. Start empty.
+  excluded_categories: []
+
+# ----------------------------------------------------------------------------
+# JobsPipe (the job source)
+# ----------------------------------------------------------------------------
+jobspipe:
+  mode: sandbox                     # sandbox (no key, no quota) | live (needs JOBSPIPE_API_KEY)
+  per_query_limit: 20               # max results (= credits) per search
+  max_pages: 1                      # pages per search body
+  max_requests_per_run: 2           # HARD ceiling on API calls per run (free-tier credits)
+  fetch_posted_within_days: 3       # API recency window - small because it runs daily
+  seniority_or: [mid_level, senior] # API-side seniority filter; [] to disable
+                                    # values: entry_level mid_level senior director executive
+
+# ----------------------------------------------------------------------------
+# AI matching (Claude). Runs only on hard-filter survivors.
+# ----------------------------------------------------------------------------
+ai_matching:
+  enabled: true
+  model: claude-haiku-4-5
+  max_tokens: 500
+  include_low_match: true           # write "Low Match" rows to the sheet too
+  drop_not_viable: true             # AI-judged-irrelevant survivors: logged, not written
+                                    # set false to write them as "Low Match" instead
+
+  resume_max_chars: 40000           # whole resume is sent; this is just a safety bound
+  description_max_chars: 5000        # cap on JD text sent to Claude
+  strip_jd_boilerplate: true        # drop About/Benefits/EEO/how-to-apply blocks before the cap
+  jd_extra_boilerplate_markers: []  # extra section headings to strip (added to the built-in list)
+
+# ----------------------------------------------------------------------------
+# Output
+# ----------------------------------------------------------------------------
+output:
+  google_sheet:
+    spreadsheet_key: ""             # sheet id; leave blank if using GOOGLE_SHEET_ID in .env
+    worksheet: Jobs
+    rejected_worksheet: ""          # (not used in this build)
+    service_account_file: secrets/sheet-credentials.json
+  dedup:
+    processed_store: data/processed_jobs.json  # every job ever AI-scored; stops re-scoring
+    rescore_after_days: 7                       # re-score a stored job once older than this (0 = never)

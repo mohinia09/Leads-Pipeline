@@ -1,0 +1,30 @@
+# Secrets & personal input - never commit
+.env
+secrets/*
+!secrets/.gitkeep
+data/resume.*
+data/*.docx
+data/*.pdf
+
+# Transient run artifacts - not committed
+#   (data/processed_jobs.json IS committed - the CI run pushes it back)
+data/seen_jobs.json
+data/last_fetch.json
+data/last_scored.json
+logs/
+*.log
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor / tooling
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/

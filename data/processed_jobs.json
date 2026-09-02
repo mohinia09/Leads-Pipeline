@@ -1,0 +1,82 @@
+{
+ "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
+ "updated": "2026-09-02",
+ "jobs": {
+  "jobspipe:ae88c503c3d1b89a": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate has strong architecture, customer-facing, and systems thinking skills. However, role requires deep Databricks, Spark, and data platform specialization with 6-8+ hands-on projects. Candidate's background is EDA/VLSI and recent GenA",
+   "composite": "warrior-tech-solutions|senior-solution-architect-databricks|remote",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture, customer-facing, and systems thinking skills. However, role requires deep Databricks, Spark, and data platform specialization with 6-8+ hands-on projects. Candidate's background is EDA/VLSI and recent GenA",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, multithreading, REST APIs known. Lacks hands-on Databricks, Spark internals, distributed computing depth, M",
+    "seniority_alignment": "13 yrs exp aligns with 7-10 yr requirement, but candidate is architect/engineer track, not data platform specialist. FDE",
+    "overall_quality": "Medium",
+    "company_assessment": "Warrior Tech Solutions appears to be a Databricks consulting/implementation partner. Role is forward-deployed resident architect for Databricks customers.",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:daf225e6542961c1": {
+   "label": "Low Match",
+   "score": 62,
+   "reason": "Strong fit on architecture ownership, enterprise consulting, GenAI systems design, and customer-facing technical leadership. Critical gaps: zero demonstrated GCP/Vertex AI/Gemini hands-on experience; mandatory requirement for 5+ years GCP s",
+   "composite": "hire3-labs|solution-architect|bengaluru-karnataka",
+   "first_seen": "2026-09-02",
+   "last_scored": "2026-09-02",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong fit on architecture ownership, enterprise consulting, GenAI systems design, and customer-facing technical leadership. Critical gaps: zero demonstrated GCP/Vertex AI/Gemini hands-on experience; mandatory requirement for 5+ years GCP s",
+    "relevance": "High",
+    "technical_fit": "Strong GenAI & architecture fundamentals; missing GCP/Vertex AI/Gemini hands-on depth. C++, Python, APIs present; GKE/Al",
+    "seniority_alignment": "Aligned at 13 years; role caps at 15 years. Senior IC-level experience matches Senior SA expectations.",
+    "overall_quality": "High",
+    "company_assessment": "Hire3 Labs appears to be a Google Cloud consulting/staffing partner. Role is enterprise AI solution architecture on GCP with Vertex AI focus.",
+    "quality_score": 62
+   }
+  },
+  "jobspipe:dbf8083afd933bc7": {
+   "label": "Low Match",
+   "score": 58,
+   "reason": "Candidate has strong architecture, enterprise delivery, and large-system design chops. However, role demands 4+ yr Solution Architect focus (resume shows 2 yr CE) and deep GoLang expertise (not present). GenAI work is recent pivot; lacks cl",
+   "composite": "websenor-infotech|senior-solution-architect|remote",
+   "first_seen": "2026-09-01",
+   "last_scored": "2026-09-01",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture, enterprise delivery, and large-system design chops. However, role demands 4+ yr Solution Architect focus (resume shows 2 yr CE) and deep GoLang expertise (not present). GenAI work is recent pivot; lacks cl",
+    "relevance": "Medium",
+    "technical_fit": "Strong in distributed systems, scalability, enterprise integration; weak in GoLang (not on resume), Kubernetes, cloud-na",
+    "seniority_alignment": "Good alignment at 13 years experience and senior IC level; Solution Architect role is primary target.",
+    "overall_quality": "Medium",
+    "company_assessment": "WebSenor InfoTech: cybersecurity platform provider, cloud-scale ops managing millions of endpoints/assets. Mid-stage SaaS likely.",
+    "quality_score": 58
+   }
+  },
+  "jobspipe:f60361e8cbb2c428": {
+   "label": "Low Match",
+   "score": 28,
+   "reason": "Candidate's Solutions Architect/Sales Engineer target aligns with sales engineer title, but no SMT/PCB/EMS domain expertise, equipment knowledge, or consumables sales background. Recent GenAI and enterprise tech focus diverges sharply. On-s",
+   "composite": "ecopmin-technologies-pvt-ltd|senior-smt-sales-engineer|ambattur-chennai-tamil-nadu",
+   "first_seen": "2026-09-01",
+   "last_scored": "2026-09-01",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's Solutions Architect/Sales Engineer target aligns with sales engineer title, but no SMT/PCB/EMS domain expertise, equipment knowledge, or consumables sales background. Recent GenAI and enterprise tech focus diverges sharply. On-s",
+    "relevance": "Medium",
+    "technical_fit": "Candidate has deep technical foundation (C++, Python, systems architecture) but lacks SMT equipment, PCB assembly, and c",
+    "seniority_alignment": "Overqualified. Candidate is a Senior engineer with 13 years architecting complex systems; role targets 5-10 years in tra",
+    "overall_quality": "Medium",
+    "company_assessment": "Ecopmin Technologies is an SMT/PCB assembly equipment and consumables supplier. Small-to-mid sized B2B manufacturer looking for field sales execution in Chennai",
+    "quality_score": 28
+   }
+  }
+ }
+}

@@ -1,0 +1,16 @@
+Test Candidate
+Senior AI Solutions Architect
+
+SUMMARY
+13 years of experience building and deploying enterprise software and, for the
+last 6 years, GenAI / ML platforms. Forward-deployed with enterprise customers:
+solution design, reference architectures, PoC-to-production, stakeholder
+enablement.
+
+EXPERIENCE
+2018 - Present   Principal Solutions Architect, ExampleCorp
+2014 - 2018      Senior Solutions Engineer, SampleSoft
+2011 - 2014      Software Engineer, StartupOne
+
+SKILLS
+Python, AWS, Kubernetes, RAG, LLM evaluation, distributed systems, pre-sales.

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "total_results": 2,
+    "truncated_results": 2,
+    "next_cursor": null
+  },
+  "data": [
+    {
+      "id": "sample_job_1",
+      "job_title": "Senior Backend Engineer (Sample)",
+      "company": "Acme Inc",
+      "company_domain": "example.com",
+      "location": "Remote - United States",
+      "country_code": "US",
+      "remote": true,
+      "seniority": "senior",
+      "min_annual_salary_usd": 150000,
+      "max_annual_salary_usd": 190000,
+      "date_posted": "2026-06-01",
+      "technology_slugs": [
+        "python",
+        "postgresql",
+        "aws"
+      ],
+      "occupation_code": "2512",
+      "occupation_label": "Software Developers",
+      "isic_division": "62",
+      "isic_division_label": "Computer programming, consultancy and related activities",
+      "final_url": "https://example.com/jobs/sample-backend-engineer"
+    },
+    {
+      "id": "sample_job_2",
+      "job_title": "Frontend Developer (Sample)",
+      "company": "Sample Corp",
+      "company_domain": "example.org",
+      "location": "Berlin, Germany",
+      "country_code": "DE",
+      "remote": false,
+      "seniority": "mid",
+      "min_annual_salary_usd": 70000,
+      "max_annual_salary_usd": 95000,
+      "date_posted": "2026-06-15",
+      "technology_slugs": [
+        "typescript",
+        "react",
+        "nextjs"
+      ],
+      "occupation_code": "2512",
+      "occupation_label": "Software Developers",
+      "isic_division": "62",
+      "isic_division_label": "Computer programming, consultancy and related activities",
+      "final_url": "https://example.com/jobs/sample-frontend-developer"
+    }
+  ]
+}

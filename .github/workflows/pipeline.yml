@@ -1,0 +1,68 @@
+name: job-search pipeline
+
+on:
+  schedule:
+    - cron: "30 0 */2 * *"   # 00:30 UTC = 06:00 IST, every 2nd day
+  workflow_dispatch: {}       # manual "Run workflow" button
+
+concurrency:
+  group: job-search-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write             # needed to commit the processed store back
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Rebuild secrets and resume from GitHub Secrets
+        env:
+          JOBSPIPE_API_KEY: ${{ secrets.JOBSPIPE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+          RESUME_B64: ${{ secrets.RESUME_B64 }}
+          RESUME_SHA256: ${{ secrets.RESUME_SHA256 }}
+        run: |
+          set -euo pipefail
+          mkdir -p secrets data
+          {
+            printf 'JOBSPIPE_API_KEY=%s\n' "$JOBSPIPE_API_KEY"
+            printf 'ANTHROPIC_API_KEY=%s\n' "$ANTHROPIC_API_KEY"
+            printf 'GOOGLE_SHEET_ID=%s\n' "$GOOGLE_SHEET_ID"
+          } > .env
+          printf '%s' "$GOOGLE_SA_JSON" > secrets/sheet-credentials.json
+          printf '%s' "$RESUME_B64" | base64 -d > data/resume.docx
+          echo "${RESUME_SHA256}  data/resume.docx" | sha256sum -c -
+          test -s secrets/sheet-credentials.json
+          test -s data/resume.docx
+
+      - name: Run pipeline
+        run: python -m jobpipe run
+
+      - name: Commit updated processed store
+        if: always()
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data/processed_jobs.json; then
+            echo "processed store unchanged - nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed_jobs.json
+          git commit -m "pipeline: update processed store [skip ci]"
+          git push
