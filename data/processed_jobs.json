@@ -1,6 +1,6 @@
 {
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
- "updated": "2026-09-02",
+ "updated": "2026-09-03",
  "jobs": {
   "jobspipe:4338662094": {
    "label": "Low Match",
@@ -228,6 +228,25 @@
     "overall_quality": "High",
     "company_assessment": "EDMO: conversational AI platform for higher education; scaling multi-agent systems at enterprise scale; Pune-based, hybrid role; stage/size inferred as growth-s",
     "quality_score": 87
+   }
+  },
+  "jobspipe:4460952069": {
+   "label": "Low Match",
+   "score": 22,
+   "reason": "Candidate's background is platform architecture, GenAI systems, and EDA/semiconductor engineering\u2014fundamentally different from Salesforce Marketing Cloud specialization. No demonstrated Marketing Cloud, Apex, SOQL, or Salesforce ecosystem e",
+   "composite": "iitjobs-inc|technical-lead-salesforce-marketing-cloud|pune-district-maharashtra-india",
+   "first_seen": "2026-09-03",
+   "last_scored": "2026-09-03",
+   "written": true,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's background is platform architecture, GenAI systems, and EDA/semiconductor engineering\u2014fundamentally different from Salesforce Marketing Cloud specialization. No demonstrated Marketing Cloud, Apex, SOQL, or Salesforce ecosystem e",
+    "relevance": "Low",
+    "technical_fit": "Candidate has GenAI, backend systems, and platform architecture expertise. Role requires deep Salesforce Marketing Cloud",
+    "seniority_alignment": "Candidate at 13 yrs exceeds 8+ requirement. Seniority alignment is strong, but experience domain mismatch is critical.",
+    "overall_quality": "Low",
+    "company_assessment": "iitjobs, Inc. appears to be a staffing/recruitment agency posting a contract role for a client. Pune-based, hybrid Salesforce Marketing Cloud technical lead pos",
+    "quality_score": 22
    }
   },
   "jobspipe:4461015160": {
