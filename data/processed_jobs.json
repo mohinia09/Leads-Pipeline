@@ -1,6 +1,6 @@
 {
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
- "updated": "2026-09-21",
+ "updated": "2026-09-23",
  "jobs": {
   "jobspipe:/job/Chennai---Menon-Eternity/IN-Manager--Agentic-AI-Engineer--Data-Analytics--Advisory--Bangalore_696051WD-1": {
    "label": "Good Match",
@@ -59,6 +59,25 @@
     "quality_score": 42
    }
   },
+  "jobspipe:346fc9a483de4bd7": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Excellent cultural and role fit: architect-level technical depth, proven customer engagement (Undo.io), GenAI expertise, startup mindset. Gaps: limited explicit AWS hands-on, no stated GTM strategy experience. Strong advocate/trusted adviso",
+   "composite": "amazon-web-services|senior-solution-architect|bengaluru-karnataka",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent cultural and role fit: architect-level technical depth, proven customer engagement (Undo.io), GenAI expertise, startup mindset. Gaps: limited explicit AWS hands-on, no stated GTM strategy experience. Strong advocate/trusted adviso",
+    "relevance": "High",
+    "technical_fit": "Strong cloud/architecture foundation; GenAI, distributed systems, performance engineering expertise. AWS services knowle",
+    "seniority_alignment": "Aligned. 13 years exp, architect-level work at Cadence/Undo.io. Sr. title appropriate for stage.",
+    "overall_quality": "High",
+    "company_assessment": "AWS SMGS, startup-focused solutions architecture team. Global cloud platform provider, tier-1 scale. Bengaluru location matches candidate.",
+    "quality_score": 78
+   }
+  },
   "jobspipe:36af55b8-1a5f-4460-80ab-1c3c57dc32d8": {
    "label": "Good Match",
    "score": 82,
@@ -76,6 +95,25 @@
     "overall_quality": "High",
     "company_assessment": "jobgether appears to be a professional services/partner enablement firm focused on secure, scalable software solutions. Growth-stage, remote-first, partner-ecos",
     "quality_score": 82
+   }
+  },
+  "jobspipe:3731e90c522d2a53": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Strong C++ & system design foundation; multithreading expertise applicable. However, role demands deep dataplane/networking security engineering (DLP, inline inspection, protocol stacks) where candidate has no demonstrated background. Recen",
+   "composite": "netskope|principal-engineer-abhiram|bengaluru-karnataka",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong C++ & system design foundation; multithreading expertise applicable. However, role demands deep dataplane/networking security engineering (DLP, inline inspection, protocol stacks) where candidate has no demonstrated background. Recen",
+    "relevance": "Medium",
+    "technical_fit": "C++ mastery present; multithreading/memory management strong; missing dataplane/networking depth, TCP/SSL/TLS protocol e",
+    "seniority_alignment": "13yr exp meets 12+ req; Principal Engineer title targets senior IC, but candidate's recent path is Customer Engineer + c",
+    "overall_quality": "Medium",
+    "company_assessment": "Netskope: NASDAQ-listed cloud security leader (30+ Fortune 100). Data Security team builds DLP solutions; needs high-perf dataplane engineers with networking/se",
+    "quality_score": 52
    }
   },
   "jobspipe:4338662094": {
@@ -382,6 +420,25 @@
     "quality_score": 5
    }
   },
+  "jobspipe:4415861506": {
+   "label": "Low Match",
+   "score": 32,
+   "reason": "Strong architectural thinking and 13 years in EDA/silicon domain are valuable. However, candidate's background is performance engineering and visualization (heatmaps) within Cadence's design platform\u2014not verification. Missing 10+ years hand",
+   "composite": "synopsys-inc|principal-engineer-digital-design-verification|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong architectural thinking and 13 years in EDA/silicon domain are valuable. However, candidate's background is performance engineering and visualization (heatmaps) within Cadence's design platform\u2014not verification. Missing 10+ years hand",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, multithreading skills present; lacks VCS, Verdi, SystemVerilog, UVM, and core verification tool expertise.",
+    "seniority_alignment": "13 years experience aligns with Principal level; however, domain shift (EDA platform \u2192 verification methodology) weakens",
+    "overall_quality": "Medium",
+    "company_assessment": "Synopsys: $40B+ semiconductor EDA leader. Role: newly formed Digital IP Verification COE, architecting verification flows and mentoring globally distributed tea",
+    "quality_score": 32
+   }
+  },
   "jobspipe:4416905110": {
    "label": "Low Match",
    "score": 45,
@@ -437,6 +494,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Wiz: fast-growing cloud security unicorn (Google-backed), serving 65%+ Fortune 100. Focused on CSPM, cloud/AI security, real-time threat detection across multi-",
     "quality_score": 58
+   }
+  },
+  "jobspipe:4425471984": {
+   "label": "Good Match",
+   "score": 82,
+   "reason": "Excellent fit on core SA competencies: 13 years spanning architecture, enterprise technical delivery, and customer-facing technical roles. Undo.io presales + Cadence R&D leadership demonstrate both sides (sales enablement + deep product exp",
+   "composite": "elastic|senior-solution-architect-mumbai|mumbai-metropolitan-region",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent fit on core SA competencies: 13 years spanning architecture, enterprise technical delivery, and customer-facing technical roles. Undo.io presales + Cadence R&D leadership demonstrate both sides (sales enablement + deep product exp",
+    "relevance": "High",
+    "technical_fit": "Strong platform architecture, enterprise integration, and system design expertise. GenAI experience less directly releva",
+    "seniority_alignment": "Well-aligned. 13 years experience, recent senior customer engineer role, and lead engineer background match Senior SA ex",
+    "overall_quality": "High",
+    "company_assessment": "Elastic: Search AI platform, 50%+ Fortune 500 adoption, enterprise-focused. Security, observability, and search products. Strong growth-stage company.",
+    "quality_score": 82
    }
   },
   "jobspipe:4427240097": {
@@ -760,6 +836,25 @@
     "overall_quality": "Medium",
     "company_assessment": "VOIS: 30K FTE shared services org under Vodafone Group + Accenture partnership. Designs CPE/broadband solutions across 28 countries. Established, enterprise-sca",
     "quality_score": 52
+   }
+  },
+  "jobspipe:4449855304": {
+   "label": "Low Match",
+   "score": 48,
+   "reason": "Candidate has strong fundamentals (C++, Python, system design, 13yrs) but role requires deep CI/CD tooling expertise (Jenkins, GitLab, Spinnaker, IaC) and platform engineering focus. Candidate's background is GenAI systems, EDA, and custome",
+   "composite": "palo-alto-networks|principal-engineer-software-developer-platforms-netsec-bangalore|bengaluru-east-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong fundamentals (C++, Python, system design, 13yrs) but role requires deep CI/CD tooling expertise (Jenkins, GitLab, Spinnaker, IaC) and platform engineering focus. Candidate's background is GenAI systems, EDA, and custome",
+    "relevance": "Medium",
+    "technical_fit": "Strong C++, Python, multithreading, cloud (AWS). Weak on CI/CD tools (Jenkins, GitLab, Spinnaker), infrastructure-as-cod",
+    "seniority_alignment": "Good: 13yrs experience aligns with Principal level (9yr minimum). However, platform/productivity engineering leadership ",
+    "overall_quality": "Medium",
+    "company_assessment": "Palo Alto Networks: large enterprise cybersecurity vendor. Role focuses on developer platforms, CI/CD, infrastructure productivity\u2014different from candidate's Ge",
+    "quality_score": 48
    }
   },
   "jobspipe:4450694558": {
@@ -1311,6 +1406,25 @@
     "overall_quality": "High",
     "company_assessment": "Birlasoft is a mid-to-large IT services player (Gurgaon-based, hybrid model in Noida) focused on enterprise integration, automation, and digital transformation.",
     "quality_score": 78
+   }
+  },
+  "jobspipe:4461705532": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Language overlap (C++, Python, multithreading) insufficient. Missing: kernel/driver dev, Linux BSP, SONiC, BIOS, device driver experience, embedded protocols (I2C, SPI, PCIe). Experience anchored in EDA/GenAI, not embedded systems. Years ga",
+   "composite": "cisco|embedded-software-engineering-sr-technical-leader-c-c-bsp-sonic-device-driver-linux-kernel-12-years|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Language overlap (C++, Python, multithreading) insufficient. Missing: kernel/driver dev, Linux BSP, SONiC, BIOS, device driver experience, embedded protocols (I2C, SPI, PCIe). Experience anchored in EDA/GenAI, not embedded systems. Years ga",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, multithreading present; Linux/kernel, device drivers, BSP/SONiC absent. EDA/GenAI focus diverges from embed",
+    "seniority_alignment": "Underqualified. 13 years vs 18+ (Bachelor) or 15+ (Master) required. Role seeks Sr. Technical Leader; candidate is mid-l",
+    "overall_quality": "Medium",
+    "company_assessment": "Cisco Silicon One\u2014large enterprise, networking/routing hardware focus. Seeks embedded systems experts for BIOS, diagnostics, device drivers in AI-era infrastruc",
+    "quality_score": 35
    }
   },
   "jobspipe:4461767436": {
@@ -2738,6 +2852,25 @@
     "quality_score": 48
    }
   },
+  "jobspipe:4467392503": {
+   "label": "Low Match",
+   "score": 32,
+   "reason": "Candidate has strong technical depth, enterprise delivery, and pre/post-sales experience, but role demands deep domain expertise in industrial process equipment and proven sales team leadership with P&L accountability. EDA/VLSI and GenAI ba",
+   "composite": "symco-techno-products-and-services|sales-technical-lead|hyderabad-telangana-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong technical depth, enterprise delivery, and pre/post-sales experience, but role demands deep domain expertise in industrial process equipment and proven sales team leadership with P&L accountability. EDA/VLSI and GenAI ba",
+    "relevance": "Medium",
+    "technical_fit": "Domain mismatch: EDA/VLSI & GenAI vs. industrial filtration/heat exchangers. No prior exposure to process equipment or r",
+    "seniority_alignment": "Overqualified in some areas (13 yrs, architecting complex systems), but lacks specific industrial sales leadership and P",
+    "overall_quality": "Medium",
+    "company_assessment": "HM Industrial (Hima Group): B2B industrial equipment distributor (filtration, heat exchangers) serving refineries, power, O&G. Mid-market, channel-partner model",
+    "quality_score": 32
+   }
+  },
   "jobspipe:4467401105": {
    "label": "Good Match",
    "score": 82,
@@ -2928,6 +3061,139 @@
     "quality_score": 15
    }
   },
+  "jobspipe:4468540189": {
+   "label": "Not Viable",
+   "score": 8,
+   "reason": "Candidate's background is platform architecture, GenAI systems, and customer-facing technical delivery. Role demands deep Oracle Database & Linux administration expertise for manufacturing infrastructure support\u2014a fundamentally different te",
+   "composite": "schaeffler|sr-it-solutions-eng-infrastructure-for-manufacturing-applications|pune-division-maharashtra-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Not Viable",
+    "reason": "Candidate's background is platform architecture, GenAI systems, and customer-facing technical delivery. Role demands deep Oracle Database & Linux administration expertise for manufacturing infrastructure support\u2014a fundamentally different te",
+    "relevance": "Low",
+    "technical_fit": "Oracle DBA & Linux sysadmin expertise absent; candidate's tech stack (C++, Python, GenAI, REST APIs) does not align with",
+    "seniority_alignment": "Years match (13 vs 10+) but seniority type misaligned: candidate is architect/engineer; role is infrastructure support s",
+    "overall_quality": "Low",
+    "company_assessment": "Schaeffler: global automotive/aerospace/industrial supplier, mature enterprise. Role is 3rd-level infrastructure ops support for manufacturing applications.",
+    "quality_score": 8
+   }
+  },
+  "jobspipe:4468558199": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate excels in applied systems architecture, GenAI, and enterprise delivery but lacks deep GCP/cloud infrastructure expertise. Strong in EDA/VLSI, low-power systems, RAG pipelines; weak in Terraform, Kubernetes, DevSecOps, networking. ",
+   "composite": "the-ksquare-group|architect-principal-engineer-gcp|hyderabad-telangana-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate excels in applied systems architecture, GenAI, and enterprise delivery but lacks deep GCP/cloud infrastructure expertise. Strong in EDA/VLSI, low-power systems, RAG pipelines; weak in Terraform, Kubernetes, DevSecOps, networking. ",
+    "relevance": "Medium",
+    "technical_fit": "Python, Docker, AWS known; GCP, Terraform, Kubernetes/GKE, DevSecOps, CI/CD, IAM expertise gaps. Cloud foundation & IaC ",
+    "seniority_alignment": "13 yrs experience aligns with senior level; architecture & leadership demonstrated, but cloud platform depth misaligned ",
+    "overall_quality": "Medium",
+    "company_assessment": "Global tech consulting (350+ staff, Dallas HQ). Delivery-focused, multi-cloud practice. Banking, public sector, telecom verticals. Hybrid Hyderabad role.",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4468560315": {
+   "label": "Low Match",
+   "score": 38,
+   "reason": "Strong on leadership, enterprise architecture, and technical execution fundamentals; weak on Microsoft stack specificity (Dynamics 365, Power Automate, JavaScript, Azure integration patterns). GenAI/EDA background doesn't transfer to CRM do",
+   "composite": "ascendion|technical-lead-ms-dynamics-365-crm|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong on leadership, enterprise architecture, and technical execution fundamentals; weak on Microsoft stack specificity (Dynamics 365, Power Automate, JavaScript, Azure integration patterns). GenAI/EDA background doesn't transfer to CRM do",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, REST APIs, Azure exposure via AWS/cloud work, but no Dynamics 365, Power Platform, or JavaScript expertise ",
+    "seniority_alignment": "13 years experience aligns with 10-14yr requirement. Leadership track record fits Technical Lead tier, though domain-spe",
+    "overall_quality": "Medium",
+    "company_assessment": "Ascendion is a mid-size Microsoft solutions/systems integrator focused on enterprise CRM and Power Platform delivery at scale.",
+    "quality_score": 38
+   }
+  },
+  "jobspipe:4468572295": {
+   "label": "Low Match",
+   "score": 48,
+   "reason": "Strong architecture and enterprise delivery experience, but telecom BSS domain expertise missing. No Java/Spring/TMforum ODA background demonstrated. GenAI/EDA expertise irrelevant. Requires domain ramp-up despite architecture credentials.",
+   "composite": "tata-consultancy-services|telecom-architect-bss-solution-architect|hyderabad-telangana-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong architecture and enterprise delivery experience, but telecom BSS domain expertise missing. No Java/Spring/TMforum ODA background demonstrated. GenAI/EDA expertise irrelevant. Requires domain ramp-up despite architecture credentials.",
+    "relevance": "Medium",
+    "technical_fit": "Java/Spring ecosystem absent from resume; Kafka, microservices theory known but not demonstrated in BSS context",
+    "seniority_alignment": "13 yrs experience matches 10+ requirement, but domain pivot from EDA/GenAI to telecom BSS is significant",
+    "overall_quality": "Medium",
+    "company_assessment": "TCS is large enterprise IT consulting firm; role is telecom BSS solution architect in Hyderabad, requiring hands-on architecture design",
+    "quality_score": 48
+   }
+  },
+  "jobspipe:4468574983": {
+   "label": "Not Viable",
+   "score": 5,
+   "reason": "Candidate is a technology/software architect with GenAI, EDA, and enterprise systems expertise. Role requires building architect with construction, detailing, Indian building codes, Revit/BIM proficiency. No domain overlap despite seniority",
+   "composite": "bobby-mukherrji-architects|senior-project-architect-technical-lead|mumbai-maharashtra-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Not Viable",
+    "reason": "Candidate is a technology/software architect with GenAI, EDA, and enterprise systems expertise. Role requires building architect with construction, detailing, Indian building codes, Revit/BIM proficiency. No domain overlap despite seniority",
+    "relevance": "Low",
+    "technical_fit": "Architecture/construction domain; candidate is software/systems architect with no building design experience",
+    "seniority_alignment": "Years aligned (13 vs 10-15), but seniority in unrelated field",
+    "overall_quality": "Low",
+    "company_assessment": "International architecture & interior design firm (hospitality, residential, commercial). Requires deep construction, building codes, Revit/BIM expertise",
+    "quality_score": 5
+   }
+  },
+  "jobspipe:4469011940": {
+   "label": "Low Match",
+   "score": 28,
+   "reason": "Wrong technical domain. Candidate is GenAI + EDA architect; role demands deep Salesforce platform expertise (Apex, LWC, CPQ, DevOps tooling). No Salesforce background or certs. Seniority & soft skills match, but hard requirement gaps make p",
+   "composite": "aristocrat|tech-lead-sfdc-developer-cpq|noida-uttar-pradesh-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Wrong technical domain. Candidate is GenAI + EDA architect; role demands deep Salesforce platform expertise (Apex, LWC, CPQ, DevOps tooling). No Salesforce background or certs. Seniority & soft skills match, but hard requirement gaps make p",
+    "relevance": "Low",
+    "technical_fit": "Candidate has strong C++, Python, APIs, but no Salesforce/Apex/LWC/CPQ experience. Tech stack mismatch.",
+    "seniority_alignment": "13yr exp suits Tech Lead level; however, role requires 4+ yrs hands-on SFDC dev\u2014candidate has zero.",
+    "overall_quality": "Low",
+    "company_assessment": "Aristocrat: large gaming/entertainment corp, mature enterprise. Salesforce-centric IT ops & CPQ. Noida location aligns.",
+    "quality_score": 28
+   }
+  },
+  "jobspipe:4469034471": {
+   "label": "Not Viable",
+   "score": 8,
+   "reason": "Candidate has strong solutions architecture, stakeholder management, and enterprise delivery skills, but zero SAP/ERP domain expertise. Role mandates 5+ E2E SAP S/4 HANA implementations; candidate's entire track record is semiconductor tool",
+   "composite": "tata-consultancy-services|sap-s-4-hana-solution-architect|bengaluru-south-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Not Viable",
+    "reason": "Candidate has strong solutions architecture, stakeholder management, and enterprise delivery skills, but zero SAP/ERP domain expertise. Role mandates 5+ E2E SAP S/4 HANA implementations; candidate's entire track record is semiconductor tool",
+    "relevance": "Low",
+    "technical_fit": "SAP S/4 HANA ERP expertise required; candidate has GenAI, platform architecture, performance engineering background with",
+    "seniority_alignment": "13 years matches requirement, but architecture depth is in wrong domain (semiconductor/GenAI vs. enterprise ERP).",
+    "overall_quality": "Low",
+    "company_assessment": "TCS is a large enterprise IT services firm seeking experienced SAP implementation leader for manufacturing/ERP transformation projects.",
+    "quality_score": 8
+   }
+  },
   "jobspipe:4469102098": {
    "label": "Low Match",
    "score": 22,
@@ -3059,6 +3325,158 @@
     "overall_quality": "High",
     "company_assessment": "1WRK by ANSR is an HR-tech/global workforce/EOR SaaS platform. Early/growth stage, building AI capabilities into core product. Well-capitalized via Talent500 pl",
     "quality_score": 78
+   }
+  },
+  "jobspipe:4470276688": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Candidate's platform architecture, performance engineering, and technical leadership background align well with role's need for hands-on senior IC + technical lead. Strong on AI/ML systems, integrations, and cross-functional translation. Ga",
+   "composite": "hotsourced|technical-lead|india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Candidate's platform architecture, performance engineering, and technical leadership background align well with role's need for hands-on senior IC + technical lead. Strong on AI/ML systems, integrations, and cross-functional translation. Ga",
+    "relevance": "High",
+    "technical_fit": "Strong: C++, Python, architecture, system design, integrations, data pipelines; some gaps in TypeScript/frontend, e-comm",
+    "seniority_alignment": "Excellent: 13 yrs exp, led R&D teams, owned complex systems end-to-end, ready for technical leadership + IC role",
+    "overall_quality": "High",
+    "company_assessment": "Norwegian fashion-tech, early-stage growth (post-2025 launch), building body-scan/virtual try-on e-commerce platform. Needs hands-on technical lead to own archi",
+    "quality_score": 78
+   }
+  },
+  "jobspipe:4470411826": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate has strong SA fundamentals (requirements gathering, technical feasibility, stakeholder alignment, documentation) and 13yr tenure. However, critical gaps: no Java/Spring/Kafka/Oracle, minimal cloud migration or large banking system",
+   "composite": "bnp-paribas|solutions-architect|chennai-tamil-nadu-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong SA fundamentals (requirements gathering, technical feasibility, stakeholder alignment, documentation) and 13yr tenure. However, critical gaps: no Java/Spring/Kafka/Oracle, minimal cloud migration or large banking system",
+    "relevance": "Medium",
+    "technical_fit": "GenAI, APIs, cloud basics present; lacks Java/Spring, Oracle, Kafka, container platforms, and large-scale cloud migratio",
+    "seniority_alignment": "13 years exp aligns with SA level; but domain shift (EDA\u2192banking) and limited cloud-native/migration track record raise ",
+    "overall_quality": "Medium",
+    "company_assessment": "BNP Paribas: large financial services firm, wealth management digital transformation, IBM private cloud migration at scale (30+ app ecosystem).",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4470464596": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate's core strength is cross-platform architecture, GenAI, and customer-facing technical leadership. Role demands deep Java/JEE expertise (Java 11/17, EE, Eclipse RCP, WildFly). While she has PostgreSQL, multithreading, and enterprise",
+   "composite": "eurofins|technical-lead|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's core strength is cross-platform architecture, GenAI, and customer-facing technical leadership. Role demands deep Java/JEE expertise (Java 11/17, EE, Eclipse RCP, WildFly). While she has PostgreSQL, multithreading, and enterprise",
+    "relevance": "Medium",
+    "technical_fit": "Java expertise missing; C++ background doesn't transfer directly. PostgreSQL + architecture experience relevant but Java",
+    "seniority_alignment": "Overqualified on breadth (13yr generalist architect) but underqualified on Java stack depth. Senior Engineer \u2192 Tech Lead",
+    "overall_quality": "Medium",
+    "company_assessment": "Eurofins: large multinational life sciences/testing (~65k staff, \u20ac6.95B revenue). Regulated forensics LIMS environment. Established enterprise, distributed deli",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4470465411": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Role requires deep Salesforce platform expertise (config, customization, certifications). Candidate has strong architectural thinking, enterprise sales skills, and discovery/requirements translation\u2014all valuable\u2014but no Salesforce experience",
+   "composite": "emp-gowin-global|salesforce-solution-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Role requires deep Salesforce platform expertise (config, customization, certifications). Candidate has strong architectural thinking, enterprise sales skills, and discovery/requirements translation\u2014all valuable\u2014but no Salesforce experience",
+    "relevance": "Medium",
+    "technical_fit": "Strong in systems architecture & enterprise delivery, but zero Salesforce platform expertise. GenAI/backend skills ortho",
+    "seniority_alignment": "Aligned (13 yrs exp vs 8+ req). Senior Engineer \u2192 Solutions Architect trajectory is natural, but domain pivot is steep.",
+    "overall_quality": "Medium",
+    "company_assessment": "EMP GoWIN Global appears to be a Salesforce consulting/implementation partner focused on Supply Chain digital transformation for enterprise clients.",
+    "quality_score": 35
+   }
+  },
+  "jobspipe:4470468328": {
+   "label": "Low Match",
+   "score": 45,
+   "reason": "Candidate has strong architecture, backend, and modernization experience, but role is Java-centric (Java 11/17, EE, Eclipse RCP, WildFly) and candidate has zero Java listed. C++/Python background transfers partially. Better suited to Soluti",
+   "composite": "eurofins|java-tech-lead|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture, backend, and modernization experience, but role is Java-centric (Java 11/17, EE, Eclipse RCP, WildFly) and candidate has zero Java listed. C++/Python background transfers partially. Better suited to Soluti",
+    "relevance": "Medium",
+    "technical_fit": "Java expertise missing; C++ & Python background. PostgreSQL & architectural design relevant. Legacy modernization aligns",
+    "seniority_alignment": "Overqualified in systems thinking; underqualified in Java ecosystem. 13yrs exp suits role, but depth in Java/EE/RCP abse",
+    "overall_quality": "Medium",
+    "company_assessment": "Eurofins: \u20ac6.95B life sciences testing & LIMS company, 65k+ staff, regulated environment. Mature, enterprise-focused, distributed teams.",
+    "quality_score": 45
+   }
+  },
+  "jobspipe:4470603075": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Candidate has strong architecture, systems design, and multi-threaded performance engineering chops; Java experience present. However, no forensic/LIMS/regulated healthcare background. Missing Eclipse RCP/SWT/WildFly stack depth. Recent piv",
+   "composite": "eurofins|technical-lead|bengaluru-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture, systems design, and multi-threaded performance engineering chops; Java experience present. However, no forensic/LIMS/regulated healthcare background. Missing Eclipse RCP/SWT/WildFly stack depth. Recent piv",
+    "relevance": "Medium",
+    "technical_fit": "Java/Jakarta EE, PostgreSQL, architecture experience present. Missing: Eclipse RCP/SWT, WildFly, enterprise LIMS domain ",
+    "seniority_alignment": "Aligned. 13 years experience matches Technical Lead level; recent consulting and pre-sales roles slightly lateral from p",
+    "overall_quality": "Medium",
+    "company_assessment": "Eurofins: \u20ac6.95B life sciences testing & laboratory services firm. Forensic LIMS modernization programme. Regulated, complex domain; distributed delivery.",
+    "quality_score": 52
+   }
+  },
+  "jobspipe:4470604383": {
+   "label": "Good Match",
+   "score": 88,
+   "reason": "Excellent fit. Candidate has proven FDE-like experience (Undo.io Senior Customer Engineer role), recent hands-on GenAI architecture delivery, enterprise technical evaluation expertise, and strong customer outcome focus. Demonstrates all key",
+   "composite": "ntt-data-north-america|ai-architect-senior-advisor|bangalore-urban-karnataka-india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent fit. Candidate has proven FDE-like experience (Undo.io Senior Customer Engineer role), recent hands-on GenAI architecture delivery, enterprise technical evaluation expertise, and strong customer outcome focus. Demonstrates all key",
+    "relevance": "High",
+    "technical_fit": "Strong GenAI, RAG, LLM systems, C++/Python, cloud architecture. Direct hands-on AI design experience aligned with role's",
+    "seniority_alignment": "Excellent alignment. 13 years experience, senior-level customer-facing delivery, enterprise stakeholder management, inde",
+    "overall_quality": "High",
+    "company_assessment": "NTT DATA North America: Large multinational IT services/consulting, enterprise transformation focus. Hybrid role in Bangalore leveraging India delivery center. ",
+    "quality_score": 88
+   }
+  },
+  "jobspipe:4470649678": {
+   "label": "Low Match",
+   "score": 25,
+   "reason": "Candidate's architecture, GenAI, and EDA/VLSI expertise are orthogonal to Salesforce Health Cloud development. Missing core technical stack (Apex, LWC, Omni Studio, SOQL) and domain (healthcare CRM). Role is hands-on Salesforce engineering;",
+   "composite": "taskverse|salesforce-technical-lead|india",
+   "first_seen": "2026-09-23",
+   "last_scored": "2026-09-23",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's architecture, GenAI, and EDA/VLSI expertise are orthogonal to Salesforce Health Cloud development. Missing core technical stack (Apex, LWC, Omni Studio, SOQL) and domain (healthcare CRM). Role is hands-on Salesforce engineering;",
+    "relevance": "Low",
+    "technical_fit": "Candidate has REST APIs, Python, C++ but lacks Salesforce stack (Apex, LWC, Omni Studio, Health Cloud). No demonstrated ",
+    "seniority_alignment": "13 years total exp aligns with 8-12yr requirement, but seniority mismatch: candidate is Solutions Architect/Principal-tr",
+    "overall_quality": "Low",
+    "company_assessment": "TaskVerse appears to be a Salesforce consulting/implementation firm targeting Health Cloud domain. Remote India-based role.",
+    "quality_score": 25
    }
   },
   "jobspipe:6153c28f7af72d98": {
