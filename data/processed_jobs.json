@@ -1,6 +1,6 @@
 {
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
- "updated": "2026-09-25",
+ "updated": "2026-09-27",
  "jobs": {
   "jobspipe:/job/Chennai---Menon-Eternity/IN-Manager--Agentic-AI-Engineer--Data-Analytics--Advisory--Bangalore_696051WD-1": {
    "label": "Good Match",
@@ -190,6 +190,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Synopsys: EDA/semiconductor IP design leader, ~$7B+ market cap. DesignWare IP team focuses on high-performance die-to-die protocols (UCIe, Ethernet, PCIe). Noid",
     "quality_score": 28
+   }
+  },
+  "jobspipe:4338714094": {
+   "label": "Low Match",
+   "score": 58,
+   "reason": "Strong architectural & integration chops; multi-platform design thinking applicable. BUT: no Finance/ERP/Workday background; role is internal ops, not external-facing (misaligns with primary target: Solutions Architect = customer-facing). G",
+   "composite": "zuora|solutions-architect|chennai-tamil-nadu-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong architectural & integration chops; multi-platform design thinking applicable. BUT: no Finance/ERP/Workday background; role is internal ops, not external-facing (misaligns with primary target: Solutions Architect = customer-facing). G",
+    "relevance": "Medium",
+    "technical_fit": "Strong in system architecture & integration design; weak in Finance/ERP domain (Workday, NetSuite, Coupa expertise not e",
+    "seniority_alignment": "Aligned\u201413 yrs exp matches Sr. Solutions Architect level; architect mindset evident",
+    "overall_quality": "Medium",
+    "company_assessment": "Zuora: subscription economy platform, mature B2B SaaS. Role is internal Corporate Ops (G&A Finance/HR systems), not customer-facing",
+    "quality_score": 58
    }
   },
   "jobspipe:4343694056": {
@@ -648,6 +667,44 @@
     "quality_score": 78
    }
   },
+  "jobspipe:4432716604": {
+   "label": "Low Match",
+   "score": 58,
+   "reason": "Strong GenAI architect credentials & enterprise technical depth, but role pivots heavily toward data engineering (Hadoop, Airflow, Azure, data warehouse ops)\u2014candidate's core is AI systems & VLSI. Untested in managing large teams as Senior ",
+   "composite": "pwc-acceleration-center-india|gen-ai-architect-senior-manager|bengaluru-east-karnataka-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong GenAI architect credentials & enterprise technical depth, but role pivots heavily toward data engineering (Hadoop, Airflow, Azure, data warehouse ops)\u2014candidate's core is AI systems & VLSI. Untested in managing large teams as Senior ",
+    "relevance": "Medium",
+    "technical_fit": "GenAI & architecture strong; data engineering/Hadoop/Airflow/Azure gaps. AWS present but limited depth shown.",
+    "seniority_alignment": "13 years aligns with 12+ requirement. Lead/Senior IC background; Senior Manager role demands people leadership\u2014untested.",
+    "overall_quality": "Medium",
+    "company_assessment": "PwC Acceleration Center India: large professional services firm, AI/data practice. Advisory-focused, enterprise clients, global scale.",
+    "quality_score": 58
+   }
+  },
+  "jobspipe:4437563158": {
+   "label": "Good Match",
+   "score": 82,
+   "reason": "Strong match on seniority, architecture, customer-facing technical leadership, and problem-solving rigor. GenAI + enterprise delivery experience aligns well. Primary gaps: no explicit NoSQL/Couchbase background, but deep distributed systems",
+   "composite": "couchbase|senior-solution-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Strong match on seniority, architecture, customer-facing technical leadership, and problem-solving rigor. GenAI + enterprise delivery experience aligns well. Primary gaps: no explicit NoSQL/Couchbase background, but deep distributed systems",
+    "relevance": "High",
+    "technical_fit": "13yrs enterprise architecture, C++/Python, cloud (AWS), databases (PostgreSQL), real-time systems, distributed computing",
+    "seniority_alignment": "Excellent alignment. 13yrs exp, led complex R&D at Cadence, Senior Customer Engineer, independent architect. Role requir",
+    "overall_quality": "High",
+    "company_assessment": "Couchbase: operational data platform (NoSQL/distributed DB), AI-ready, enterprise-focused. Series C+ stage, ~1000+ employees. Strong market position in data inf",
+    "quality_score": 82
+   }
+  },
   "jobspipe:4438230344": {
    "label": "Good Match",
    "score": 78,
@@ -836,6 +893,25 @@
     "overall_quality": "High",
     "company_assessment": "Handshake AI: AI data company ($1B run rate, 2025 founding), partners with frontier AI labs. High-growth startup model; needs customer-facing engineers solving ",
     "quality_score": 78
+   }
+  },
+  "jobspipe:4444732202": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Candidate has strong C++ and multithreading from Cadence EDA work, but role demands deep IP verification expertise (UVM/SV/HVL, formal verification, testbench strategies) she lacks. Recent pivot to GenAI and customer-facing solutions work m",
+   "composite": "nxp-semiconductors|principal-engineer-ip-verification|noida-uttar-pradesh-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong C++ and multithreading from Cadence EDA work, but role demands deep IP verification expertise (UVM/SV/HVL, formal verification, testbench strategies) she lacks. Recent pivot to GenAI and customer-facing solutions work m",
+    "relevance": "Medium",
+    "technical_fit": "C++, multithreading, some EDA domain knowledge, but lacks UVM/SV/HVL and formal verification expertise",
+    "seniority_alignment": "Aligned (13 yrs exp vs 10-15 yrs req); Principal Engineer title matches, but verification IC design leadership differs f",
+    "overall_quality": "Medium",
+    "company_assessment": "NXP Semiconductors, large semiconductor design/IP verification company; India R&D center seeking IC verification engineers for complex digital IPs",
+    "quality_score": 35
    }
   },
   "jobspipe:4446227981": {
@@ -1484,6 +1560,25 @@
     "quality_score": 78
    }
   },
+  "jobspipe:4461403871": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Candidate has excellent presales/customer engineering, architecture, and demo skills from Undo.io and Cadence. However, lacks direct experience in biometric identity workflows, government identity platforms (AADHAR/MOSIP), or PII-sensitive ",
+   "composite": "hid|solutions-engineer|bengaluru-karnataka-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has excellent presales/customer engineering, architecture, and demo skills from Undo.io and Cadence. However, lacks direct experience in biometric identity workflows, government identity platforms (AADHAR/MOSIP), or PII-sensitive ",
+    "relevance": "Medium",
+    "technical_fit": "Strong C++, Python, architecture skills; weak on biometric/identity domain specifics and government identity systems (AA",
+    "seniority_alignment": "Slightly overqualified. 13 yrs experience, recent architect/lead roles; SE is presales-heavy, less hands-on architecture",
+    "overall_quality": "Medium",
+    "company_assessment": "HID Global: 4000+ employee identity/biometric hardware-software firm (Austin HQ, ASSA ABLOY group). Government-focused (police, ministries, border mgmt). Strong",
+    "quality_score": 52
+   }
+  },
   "jobspipe:4461488357": {
    "label": "Good Match",
    "score": 78,
@@ -1956,6 +2051,25 @@
     "seniority_alignment": "13 yrs experience meets 10+ req. Led teams at Cadence; customer-facing at Undo. Principal role requires deeper engineeri",
     "overall_quality": "Medium",
     "company_assessment": "Autodesk: large-scale SaaS/cloud CAD platform (Fusion 360, AutoCAD). Bengaluru eng hub. Seeks backend platform engineer for microservices architecture.",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:4463398222": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate has strong technical depth (C++, distributed systems, performance engineering) and recent GenAI architecture experience. However, role requires Senior Principal-level strategic ownership of 50+ engineer teams and 12\u201324 month platf",
+   "composite": "atlassian|senior-principal-engineer|bengaluru-karnataka-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong technical depth (C++, distributed systems, performance engineering) and recent GenAI architecture experience. However, role requires Senior Principal-level strategic ownership of 50+ engineer teams and 12\u201324 month platf",
+    "relevance": "Medium",
+    "technical_fit": "Strong C++, Python, distributed systems expertise; GenAI systems knowledge. Gap: no demonstrated large-scale backend pla",
+    "seniority_alignment": "Below target. Candidate is mid-to-senior IC (Lead/Senior Engineer level); role demands Principal+ with proven large-scal",
+    "overall_quality": "Medium",
+    "company_assessment": "Atlassian, large public SaaS company. Role: Senior Principal Engineer on Jira Data Management platform. Focus: enterprise data migration, agent-native systems, ",
     "quality_score": 42
    }
   },
@@ -2702,21 +2816,21 @@
   },
   "jobspipe:4466477787": {
    "label": "Not Viable",
-   "score": 15,
-   "reason": "Role requires deep analog/mixed-signal circuit design expertise (CMOS, transmitter/receiver, PLL, DLL, LDO). Candidate's background is systems architecture, performance engineering, GenAI, and customer-facing technical roles. No demonstrate",
+   "score": 8,
+   "reason": "Candidate is a strong systems and software architect with semiconductor domain knowledge, but this role requires deep analog/mixed-signal circuit design expertise (transmitter, receiver, PLL, DLL, LDO). No evidence of circuit-level design, ",
    "composite": "mulya-technologies|principal-engineer-analog-circuit-design|greater-bengaluru-area",
    "first_seen": "2026-09-13",
-   "last_scored": "2026-09-13",
+   "last_scored": "2026-09-27",
    "written": false,
    "match": {
     "label": "Not Viable",
-    "reason": "Role requires deep analog/mixed-signal circuit design expertise (CMOS, transmitter/receiver, PLL, DLL, LDO). Candidate's background is systems architecture, performance engineering, GenAI, and customer-facing technical roles. No demonstrate",
+    "reason": "Candidate is a strong systems and software architect with semiconductor domain knowledge, but this role requires deep analog/mixed-signal circuit design expertise (transmitter, receiver, PLL, DLL, LDO). No evidence of circuit-level design, ",
     "relevance": "Low",
-    "technical_fit": "Candidate has C++, Python, EDA domain knowledge but lacks analog circuit design, CMOS design, and high-speed mixed-signa",
-    "seniority_alignment": "Candidate has 13 years experience and strong architectural/leadership background, meeting seniority. However, lacks the ",
+    "technical_fit": "Candidate lacks analog circuit design expertise; background is EDA/VLSI tools, GenAI, software architecture\u2014not circuit ",
+    "seniority_alignment": "13 years experience meets seniority requirement, but in wrong discipline (software/systems vs. analog circuit design).",
     "overall_quality": "Low",
-    "company_assessment": "Large US-based semiconductor MNC (>$10B market cap) focused on memory interface chips and silicon IP for data center connectivity. Established, high-performance",
-    "quality_score": 15
+    "company_assessment": "Large US-based semiconductor MNC (>$10B market cap) designing memory interface chips and silicon IP for data centers. Seeks analog circuit design leadership.",
+    "quality_score": 8
    }
   },
   "jobspipe:4466498084": {
@@ -3707,6 +3821,82 @@
     "quality_score": 45
    }
   },
+  "jobspipe:4470544898": {
+   "label": "Good Match",
+   "score": 82,
+   "reason": "Candidate's recent GenAI work (RAG assistants, AI orchestration platforms, LangChain/MCP) directly matches role. Strong Python, architecture, and production delivery. Minor: role emphasizes eCommerce/retail domain; candidate's background is",
+   "composite": "hirednex-edutech-private-limited|generative-ai-architect|mumbai-maharashtra-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Candidate's recent GenAI work (RAG assistants, AI orchestration platforms, LangChain/MCP) directly matches role. Strong Python, architecture, and production delivery. Minor: role emphasizes eCommerce/retail domain; candidate's background is",
+    "relevance": "High",
+    "technical_fit": "Excellent: GenAI architecture, RAG, LangChain, MCP, Python, Docker, CI/CD all demonstrated. Production GenAI systems bui",
+    "seniority_alignment": "Strong: 13 years experience exceeds 8+ requirement. Senior IC with mentoring track record aligns with architect + mentor",
+    "overall_quality": "High",
+    "company_assessment": "Hirednex Edutech - appears to be an EdTech/services firm building GenAI solutions for eCommerce, retail, B2B verticals. Mid-stage.",
+    "quality_score": 82
+   }
+  },
+  "jobspipe:4470561211": {
+   "label": "Low Match",
+   "score": 28,
+   "reason": "Candidate has strong architecture thinking, customer-facing delivery, and recent GenAI systems experience\u2014good fundamentals for solutions architecture. However, critical mismatch: zero demonstrable Salesforce platform expertise (Apex, LWC, ",
+   "composite": "axtria-ingenious-insights|salesforce-solutions-architect|noida-uttar-pradesh-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture thinking, customer-facing delivery, and recent GenAI systems experience\u2014good fundamentals for solutions architecture. However, critical mismatch: zero demonstrable Salesforce platform expertise (Apex, LWC, ",
+    "relevance": "Medium",
+    "technical_fit": "Strong C++, Python, REST APIs, LLM integration skills; lacks Salesforce platform depth (Apex, LWC, SOQL, MuleSoft, Data ",
+    "seniority_alignment": "13 years experience appropriate for role; architect-level thinking evident. Missing Salesforce certifications (CTA/Syste",
+    "overall_quality": "Medium",
+    "company_assessment": "Axtria is a Salesforce consulting partner focused on Life Sciences (pharma/medtech). Mature consulting firm pursuing LS Cloud + Vault CRM practice expansion. Hy",
+    "quality_score": 28
+   }
+  },
+  "jobspipe:4470571066": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Candidate's expertise (platform architecture, GenAI, EDA, enterprise systems) doesn't align with digital agency web development. On-site Pune requirement conflicts with India-based flexibility. Role appears lateral/downward move.",
+   "composite": "webocto|technical-lead|pune-division-maharashtra-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's expertise (platform architecture, GenAI, EDA, enterprise systems) doesn't align with digital agency web development. On-site Pune requirement conflicts with India-based flexibility. Role appears lateral/downward move.",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, APIs, architecture strong; web stack (JS, front-end frameworks) not demonstrated. GenAI focus misaligned wi",
+    "seniority_alignment": "Overqualified. 13 yrs experience, Senior CE/Lead Engineer background; Technical Lead at WebOcto appears mid-level IC rol",
+    "overall_quality": "Medium",
+    "company_assessment": "WebOcto is a digital solutions/marketing agency focused on web & brand presence. Early-stage or mid-size, not enterprise platform or GenAI-forward.",
+    "quality_score": 35
+   }
+  },
+  "jobspipe:4470593308": {
+   "label": "Good Match",
+   "score": 82,
+   "reason": "Excellent fit for presales SA role. Strong technical depth (C++, Python, LLMs, RAG), proven enterprise customer engagement (pre/post-sales at Undo.io), ability to translate requirements into solutions. GenAI consulting experience is directl",
+   "composite": "zytra-tech-solutions|presales-solutions-architect|hyderabad-telangana-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent fit for presales SA role. Strong technical depth (C++, Python, LLMs, RAG), proven enterprise customer engagement (pre/post-sales at Undo.io), ability to translate requirements into solutions. GenAI consulting experience is directl",
+    "relevance": "High",
+    "technical_fit": "Strong AI systems knowledge, enterprise integration experience, REST APIs, cloud platforms (AWS). GenAI expertise direct",
+    "seniority_alignment": "Well-aligned. 13 years experience, recent Solutions Architect-equivalent work, senior customer engineer background suits",
+    "overall_quality": "High",
+    "company_assessment": "Zytra: AI safety/governance platform for Indian BFSI sector. Early-stage infrastructure play combining compliance + risk controls. Founded by practitioners.",
+    "quality_score": 82
+   }
+  },
   "jobspipe:4470603075": {
    "label": "Low Match",
    "score": 52,
@@ -3762,6 +3952,25 @@
     "overall_quality": "Low",
     "company_assessment": "TaskVerse appears to be a Salesforce consulting/implementation firm targeting Health Cloud domain. Remote India-based role.",
     "quality_score": 25
+   }
+  },
+  "jobspipe:4470780813": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Excellent match on Agentic AI, LLMs, RAG, system architecture, client-facing technical delivery, and enterprise integration. 13 yrs exp + recent GenAI hands-on work + Customer Engineer role align well. Gaps: Neo4j/Knowledge Graphs, Airflow,",
+   "composite": "rocketfrog-ai|tech-lead-agentic-ai|noida-uttar-pradesh-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent match on Agentic AI, LLMs, RAG, system architecture, client-facing technical delivery, and enterprise integration. 13 yrs exp + recent GenAI hands-on work + Customer Engineer role align well. Gaps: Neo4j/Knowledge Graphs, Airflow,",
+    "relevance": "High",
+    "technical_fit": "Strong: RAG, LLMs, agents, system design, APIs; gaps in Neo4j/Knowledge Graphs, Airflow, full-stack web dev",
+    "seniority_alignment": "Aligned: 13 yrs exp matches 8-12 yr range; Tech Lead title fits adjacent target; ready for leadership",
+    "overall_quality": "High",
+    "company_assessment": "RocketFrog.ai: AI-native enterprise systems, agentic workflows, data platforms, cloud integration. Growth-stage, building intelligent enterprise solutions.",
+    "quality_score": 78
    }
   },
   "jobspipe:4471189845": {
@@ -3838,6 +4047,44 @@
     "overall_quality": "Medium",
     "company_assessment": "TCS is large Indian IT services firm. Role targets banking domain experts for Finance/Risk/Treasury/Regulatory pillars. Seeking proven SA expertise in financial",
     "quality_score": 42
+   }
+  },
+  "jobspipe:4472268481": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Candidate has solid customer-facing presales experience (Undo.io), systems architecture depth, and proven technical leadership. However, critical gaps: (1) 2-year shortfall on stated 15-yr minimum, (2) no demonstrated experience in storage,",
+   "composite": "netapp|senior-solutions-engineer|mumbai-maharashtra-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has solid customer-facing presales experience (Undo.io), systems architecture depth, and proven technical leadership. However, critical gaps: (1) 2-year shortfall on stated 15-yr minimum, (2) no demonstrated experience in storage,",
+    "relevance": "Medium",
+    "technical_fit": "Strong in systems architecture & GenAI; gap in enterprise storage, data protection, disaster recovery domains",
+    "seniority_alignment": "Underleveled: 13 yrs vs. 15 yr minimum; lacks explicit presales/sales engineering tenure",
+    "overall_quality": "Medium",
+    "company_assessment": "NetApp: enterprise storage, hybrid cloud, data protection leader. Hybrid role (Mumbai). Seeking seasoned presales engineer with storage/DR domain expertise.",
+    "quality_score": 52
+   }
+  },
+  "jobspipe:4472408356": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Excellent fit: 13yrs eng, 2.5yrs production GenAI (RAG, agents, LLM APIs), Python, cloud-native mindset, strong cross-functional collab (customer eng role). Gaps: no vector DB hands-on, MLOps tools, formal fine-tuning, or people mgmt. Mento",
+   "composite": "eazyml|senior-technical-lead|india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent fit: 13yrs eng, 2.5yrs production GenAI (RAG, agents, LLM APIs), Python, cloud-native mindset, strong cross-functional collab (customer eng role). Gaps: no vector DB hands-on, MLOps tools, formal fine-tuning, or people mgmt. Mento",
+    "relevance": "High",
+    "technical_fit": "Strong: 13yrs exp, 2.5yrs hands-on GenAI (RAG, agents, LLMs); Python, LangChain, LLM APIs (OpenAI, Anthropic), REST APIs",
+    "seniority_alignment": "Aligned: Senior IC at Cadence (led R&D), Customer Engineer at Undo (pre/post-sales technical leadership), independent co",
+    "overall_quality": "High",
+    "company_assessment": "EazyML: Gartner-recognized Responsible AI platform for enterprise compliance & sustainable automation; partners with Amelia.ai. Series A/B likely, high-growth G",
+    "quality_score": 78
    }
   },
   "jobspipe:6153c28f7af72d98": {
@@ -3990,6 +4237,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Avery Dennison: large manufacturing/materials science company (Fortune 500), needs Oracle Fusion ERP architect for cloud platform modernization & integrations.",
     "quality_score": 42
+   }
+  },
+  "jobspipe:75235986": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Candidate has strong architecture thinking, customer engagement, and system design rigor from GenAI & Cadence roles. However, falls short on minimum experience requirement (13 vs 15 years) and lacks demonstrated deep cloud platform expertis",
+   "composite": "accenture|solution-architect-senior-manager|pune-india",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture thinking, customer engagement, and system design rigor from GenAI & Cadence roles. However, falls short on minimum experience requirement (13 vs 15 years) and lacks demonstrated deep cloud platform expertis",
+    "relevance": "Medium",
+    "technical_fit": "Strong in system design & architecture; cloud/EDA domain gap; needs broader cloud platform depth for RIS consulting",
+    "seniority_alignment": "Below threshold: 13 yrs vs. 15 yr minimum; role expects senior SME influence; candidate has architect capability but jun",
+    "overall_quality": "Medium",
+    "company_assessment": "Accenture: large consulting firm, RIS (likely Risk/Insurance/Security vertical); enterprise-scale solutions delivery; Pune office",
+    "quality_score": 52
    }
   },
   "jobspipe:7d9cfd185cfc782a": {
@@ -4351,6 +4617,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Accenture SC&E practice: large consulting firm, R&D/engineering transformation, EMEA-focused. Candidate in India aligns geographically.",
     "quality_score": 52
+   }
+  },
+  "jobspipe:f174e656d449af32": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate's 13 years and SA-adjacent background (Customer Engineer with architectural thinking) fit seniority intent, but Java stack gap is material\u2014resume shows C++, Python, GenAI systems, not Spring/Hibernate/GWT. Domain pivot from EDA/se",
+   "composite": "assa-abloy-group|solution-architect|chennai-tamil-nadu",
+   "first_seen": "2026-09-27",
+   "last_scored": "2026-09-27",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's 13 years and SA-adjacent background (Customer Engineer with architectural thinking) fit seniority intent, but Java stack gap is material\u2014resume shows C++, Python, GenAI systems, not Spring/Hibernate/GWT. Domain pivot from EDA/se",
+    "relevance": "Medium",
+    "technical_fit": "Python, C++, REST APIs, microservices experience strong; Java/Spring/Hibernate stack not demonstrated. GenAI focus misal",
+    "seniority_alignment": "Overqualified in years (13 vs 15+ required), but lacking formal SA role tenure (2 yrs at Undo vs 4+ required). Architect",
+    "overall_quality": "Medium",
+    "company_assessment": "ASSA ABLOY: Global security/access control leader, 150+ yr heritage, 63k+ employees. Enterprise-grade, mission-critical systems. Established org, not startup.",
+    "quality_score": 42
    }
   },
   "jobspipe:f509738c7b2a0037": {
