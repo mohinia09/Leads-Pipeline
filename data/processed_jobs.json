@@ -1,6 +1,6 @@
 {
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
- "updated": "2026-09-29",
+ "updated": "2026-10-01",
  "jobs": {
   "jobspipe:/job/Chennai---Menon-Eternity/IN-Manager--Agentic-AI-Engineer--Data-Analytics--Advisory--Bangalore_696051WD-1": {
    "label": "Good Match",
@@ -57,6 +57,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Snowflake: large enterprise data platform, scaling AI/agentic capabilities. Frontier Security AI team builds production LLM agents and infrastructure for enterp",
     "quality_score": 52
+   }
+  },
+  "jobspipe:1390268924027a69": {
+   "label": "Low Match",
+   "score": 38,
+   "reason": "Candidate excels in architecture, systems design, and technical leadership but lacks core Azure DevOps/infrastructure engineering depth. Recent GenAI focus diverges from role. Gap in Terraform, AKS, Kubernetes, and production cloud ops expe",
+   "composite": "bilvantis-technologies|technical-lead|hyderabad-telangana",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate excels in architecture, systems design, and technical leadership but lacks core Azure DevOps/infrastructure engineering depth. Recent GenAI focus diverges from role. Gap in Terraform, AKS, Kubernetes, and production cloud ops expe",
+    "relevance": "Medium",
+    "technical_fit": "Python, REST APIs, and cloud basics present. Missing: Azure-specific expertise, Terraform, Kubernetes/AKS, Azure DevOps ",
+    "seniority_alignment": "13 years experience exceeds 8+ requirement. Leadership capability demonstrated. However, no hands-on DevOps/infrastructu",
+    "overall_quality": "Medium",
+    "company_assessment": "Bilvantis Technologies appears to be a mid-market enterprise IT services/consulting firm requiring specialized Azure cloud-native infrastructure expertise.",
+    "quality_score": 38
    }
   },
   "jobspipe:1c99274f00a4bfe9": {
@@ -589,6 +608,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Sandoz: global pharma/biosimilar leader, enterprise-scale. Hybrid role in Telangana. Seeking deep SAP integration expertise; candidate lacks domain.",
     "quality_score": 45
+   }
+  },
+  "jobspipe:4417856629": {
+   "label": "Low Match",
+   "score": 32,
+   "reason": "Candidate is a strong systems architect with relevant seniority and customer-facing solution design skills, but has zero supply chain planning domain expertise and no experience with SAP APO, IBP, or Kinaxis\u2014core technical requirements. Gen",
+   "composite": "colgate-palmolive|senior-business-process-architect|mumbai-metropolitan-region",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate is a strong systems architect with relevant seniority and customer-facing solution design skills, but has zero supply chain planning domain expertise and no experience with SAP APO, IBP, or Kinaxis\u2014core technical requirements. Gen",
+    "relevance": "Medium",
+    "technical_fit": "Domain mismatch: candidate lacks supply chain planning, SAP APO/IBP, Kinaxis expertise. Strong in system architecture bu",
+    "seniority_alignment": "13 years experience aligns with 10+ requirement; Solution Architect title matches primary target, but supply chain plann",
+    "overall_quality": "Medium",
+    "company_assessment": "Colgate-Palmolive: large CPG/consumer health enterprise, modernizing global supply chain planning stack from SAP APO to Kinaxis.",
+    "quality_score": 32
    }
   },
   "jobspipe:4418758946": {
@@ -1197,6 +1235,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Infineon: global semiconductor leader, IoT/MCU/automotive focus. Bengaluru location suits India-based candidate. Mature, established org with sophisticated phys",
     "quality_score": 42
+   }
+  },
+  "jobspipe:4455795546": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Excellent fit on architecture, distributed systems, enterprise pre-sales, and customer engagement. Strong technical depth in C++, infrastructure optimization, and system design. GenAI consulting adds modern relevance. Gap: limited explicit ",
+   "composite": "amazon-web-services-aws|solutions-architect|borivali-maharashtra-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent fit on architecture, distributed systems, enterprise pre-sales, and customer engagement. Strong technical depth in C++, infrastructure optimization, and system design. GenAI consulting adds modern relevance. Gap: limited explicit ",
+    "relevance": "High",
+    "technical_fit": "Strong distributed systems, cloud architecture, and infrastructure background. GenAI/ML experience is adjacent strength.",
+    "seniority_alignment": "Aligned. 13 years experience matches Sr. level. Lead/architect roles demonstrated at Cadence and Undo.io.",
+    "overall_quality": "High",
+    "company_assessment": "AWS Industries: Large-scale cloud platform company focused on industry-specific digital transformation. Strategic Accounts segment targets high-value enterprise",
+    "quality_score": 78
    }
   },
   "jobspipe:4455846741": {
@@ -4239,6 +4296,44 @@
     "quality_score": 42
    }
   },
+  "jobspipe:4472174497": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Strong match on seniority, distributed systems depth, and enterprise customer engagement (Undo.io pre/post-sales role). GenAI consulting is recent but not central to AWS traditional infrastructure SA. Location and primary role tier align pe",
+   "composite": "amazon-web-services-aws|senior-solutions-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Strong match on seniority, distributed systems depth, and enterprise customer engagement (Undo.io pre/post-sales role). GenAI consulting is recent but not central to AWS traditional infrastructure SA. Location and primary role tier align pe",
+    "relevance": "High",
+    "technical_fit": "Strong C++, Python, distributed systems, and infrastructure experience. GenAI expertise is adjacent but not core to trad",
+    "seniority_alignment": "Excellent alignment: 13 years experience meets/exceeds 10+ requirement. Lead/senior IC background prepares for mentorshi",
+    "overall_quality": "High",
+    "company_assessment": "AWS Industries Strategic Accounts: large enterprise cloud vendor, India-based strategic segment. Focuses on industry-specific digital transformation and major c",
+    "quality_score": 78
+   }
+  },
+  "jobspipe:4472189700": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Candidate has strong systems thinking, C++/Python, mentoring, and cross-functional leadership; however, zero demonstrated expertise in L2/L3 protocols, switching/routing, embedded network OS, or datacenter networking. Recent pivot to GenAI ",
+   "composite": "marvell-technology|principal-engineer|bengaluru-karnataka-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong systems thinking, C++/Python, mentoring, and cross-functional leadership; however, zero demonstrated expertise in L2/L3 protocols, switching/routing, embedded network OS, or datacenter networking. Recent pivot to GenAI ",
+    "relevance": "Medium",
+    "technical_fit": "C++/Python strong; L2/L3 protocols, embedded systems, switching/routing expertise absent. GenAI/RAG focus misaligned.",
+    "seniority_alignment": "13 yrs exp aligns with Principal (L2/L3); however, domain expertise (EDA/VLSI\u2192networking) is a significant gap.",
+    "overall_quality": "Medium",
+    "company_assessment": "Marvell: large semiconductor/networking company, established. Role is R&D Principal Engineer on SONiC/datacenter switching\u2014requires deep L2/L3 protocol and embe",
+    "quality_score": 35
+   }
+  },
   "jobspipe:4472268481": {
    "label": "Low Match",
    "score": 52,
@@ -4256,6 +4351,63 @@
     "overall_quality": "Medium",
     "company_assessment": "NetApp: enterprise storage, hybrid cloud, data protection leader. Hybrid role (Mumbai). Seeking seasoned presales engineer with storage/DR domain expertise.",
     "quality_score": 52
+   }
+  },
+  "jobspipe:4472312615": {
+   "label": "Low Match",
+   "score": 28,
+   "reason": "Candidate has relevant seniority and systems-thinking skills but zero demonstrated cybersecurity expertise. Role demands CISSP/CISM, SIEM/DLP/EDR/IAM mastery; candidate's background is GenAI, EDA, performance engineering. Domain switch too ",
+   "composite": "aristocrat|senior-security-engineer|gurugram-haryana-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has relevant seniority and systems-thinking skills but zero demonstrated cybersecurity expertise. Role demands CISSP/CISM, SIEM/DLP/EDR/IAM mastery; candidate's background is GenAI, EDA, performance engineering. Domain switch too ",
+    "relevance": "Low",
+    "technical_fit": "Mismatch: candidate expertise in GenAI, platform architecture, C++, Python; role requires SIEM, DLP, EDR, IAM, network/c",
+    "seniority_alignment": "Aligned: 13 yrs experience, Tech Lead tier appropriate; however, security domain leadership is missing.",
+    "overall_quality": "Low",
+    "company_assessment": "Aristocrat: global gaming/entertainment company, mature enterprise with security-critical infrastructure. Seeks security architecture expert; candidate lacks cy",
+    "quality_score": 28
+   }
+  },
+  "jobspipe:4472313221": {
+   "label": "Low Match",
+   "score": 35,
+   "reason": "Candidate has strong solution architecture, enterprise technical delivery, and consulting skills (pre/post-sales, stakeholder management, technical scoping). However, zero demonstrated expertise in Dynamics 365 CRM, Business Central, Power ",
+   "composite": "zensar-technologies|dynamics-365-solution-architect|india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong solution architecture, enterprise technical delivery, and consulting skills (pre/post-sales, stakeholder management, technical scoping). However, zero demonstrated expertise in Dynamics 365 CRM, Business Central, Power ",
+    "relevance": "Medium",
+    "technical_fit": "Strong architecture & systems thinking; lacks Dynamics 365, Power Platform, and Microsoft ecosystem depth. GenAI experie",
+    "seniority_alignment": "Aligned at 13 years experience matching 12+ requirement; however, domain expertise mismatch creates functional gap despi",
+    "overall_quality": "Medium",
+    "company_assessment": "Zensar Technologies is a mid-large IT services/consulting firm specializing in Microsoft solutions and digital transformation for enterprise clients globally.",
+    "quality_score": 35
+   }
+  },
+  "jobspipe:4472318975": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Strong architecture and enterprise delivery foundation, but domain mismatch is significant. No wireless/cellular, IP networking, or telecom background. Recent pivot to GenAI suggests diverging interests. Location fit (Hyderabad) positive. A",
+   "composite": "blue-arcus-technologies|solutions-architect|hyderabad-telangana-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Strong architecture and enterprise delivery foundation, but domain mismatch is significant. No wireless/cellular, IP networking, or telecom background. Recent pivot to GenAI suggests diverging interests. Location fit (Hyderabad) positive. A",
+    "relevance": "Medium",
+    "technical_fit": "C++, Python, APIs, Docker, AWS present. Networking/telecom domain expertise absent. GenAI focus misaligned with connecti",
+    "seniority_alignment": "Appropriate. 13 years experience fits Solutions Architect seniority; prior lead role and enterprise delivery track recor",
+    "overall_quality": "Medium",
+    "company_assessment": "Silicon Valley connectivity/wireless provider. 200+ deployments, 20+ countries. Serves telecom, enterprise networks. Mid-market to enterprise scale.",
+    "quality_score": 42
    }
   },
   "jobspipe:4472408356": {
@@ -4332,6 +4484,44 @@
     "overall_quality": "High",
     "company_assessment": "Mid-market IT consulting/automation firm (BAPON). Building agentic AI platform + SkillfulSense. Hybrid Chennai role. Targets startups/emerging enterprises. Soli",
     "quality_score": 78
+   }
+  },
+  "jobspipe:4473716310": {
+   "label": "Good Match",
+   "score": 82,
+   "reason": "Strong candidate for embedded, hands-on AI delivery in insurance ops. Proven RAG/agentic system design, enterprise customer engagement (Undo.io), and full-lifecycle ownership (Cadence). Domain gap (no insurance background) and missing RPA/i",
+   "composite": "genpact|senior-forward-deployed-engineer|delhi-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Strong candidate for embedded, hands-on AI delivery in insurance ops. Proven RAG/agentic system design, enterprise customer engagement (Undo.io), and full-lifecycle ownership (Cadence). Domain gap (no insurance background) and missing RPA/i",
+    "relevance": "High",
+    "technical_fit": "Strong: Python, LangChain, RAG, LLMs, APIs, SQL (via PostgreSQL). Gaps: RPA platforms (UiPath, Automation Anywhere), iPa",
+    "seniority_alignment": "Excellent: 13 years total, 10+ in engineering/architecture, 2.5yrs hands-on GenAI. Level aligns well with Senior FDE sco",
+    "overall_quality": "High",
+    "company_assessment": "Genpact: Global BPO/digital transformation firm; insurance/FS focus. Hybrid Delhi role; embedded client delivery model fits candidate's pre-sales + engineering ",
+    "quality_score": 82
+   }
+  },
+  "jobspipe:4473718100": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Candidate has strong technical depth, enterprise customer acumen, and product thinking from GenAI consulting. However, primary targets are Solutions Architect/Engineer roles; TPM is exploratory. FinOps domain unknown. TPM requires less hand",
+   "composite": "whiteslips-job-management-consultants|senior-technical-product-manager|hyderabad-telangana-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong technical depth, enterprise customer acumen, and product thinking from GenAI consulting. However, primary targets are Solutions Architect/Engineer roles; TPM is exploratory. FinOps domain unknown. TPM requires less hand",
+    "relevance": "Medium",
+    "technical_fit": "Strong technical foundation (C++, Python, architecture); FinOps domain unfamiliar but platform/systems knowledge transfe",
+    "seniority_alignment": "Overqualified technically (13yr Senior/Lead background); TPM role requires different skillset than Solutions Architect f",
+    "overall_quality": "Medium",
+    "company_assessment": "WhiteSlips appears to be a FinOps/cost management platform consultancy. Growth-stage, B2B SaaS targeting platform/finance teams.",
+    "quality_score": 52
    }
   },
   "jobspipe:6153c28f7af72d98": {
@@ -4505,6 +4695,25 @@
     "quality_score": 78
    }
   },
+  "jobspipe:745681bd328d5e8d": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Candidate's GenAI systems design, enterprise technical delivery, and full-stack depth (backend APIs, databases, frontend) are highly relevant. FDE role is primary target match. Forward-deployed and customer-engineering experience directly a",
+   "composite": "sukrut-associates|full-stack-engineer|jaipur-rajasthan",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Candidate's GenAI systems design, enterprise technical delivery, and full-stack depth (backend APIs, databases, frontend) are highly relevant. FDE role is primary target match. Forward-deployed and customer-engineering experience directly a",
+    "relevance": "High",
+    "technical_fit": "Strong fit: C++, Python, REST APIs, LangChain, RAG pipelines, LLM APIs, Docker, AWS align well with full-stack and FDE r",
+    "seniority_alignment": "Excellent: 13 years experience exceeds 4\u201315yr range; senior-level architecture and delivery experience matches both Seni",
+    "overall_quality": "High",
+    "company_assessment": "Sukrut Associates appears to be an AI/platform solutions company hiring for multiple technical roles. Limited public signal; early-stage or growth-stage tech fi",
+    "quality_score": 78
+   }
+  },
   "jobspipe:75235986": {
    "label": "Low Match",
    "score": 52,
@@ -4522,6 +4731,63 @@
     "overall_quality": "Medium",
     "company_assessment": "Accenture: large consulting firm, RIS (likely Risk/Insurance/Security vertical); enterprise-scale solutions delivery; Pune office",
     "quality_score": 52
+   }
+  },
+  "jobspipe:75252468": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate has strong solution architecture, customer validation, and technical execution experience but lacks demonstrated large-team leadership and networking domain expertise. Role requires Senior Manager title with multi-team ownership; ",
+   "composite": "hewlett-packard-enterprise|senior-manager-solution-engineering|bengaluru-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong solution architecture, customer validation, and technical execution experience but lacks demonstrated large-team leadership and networking domain expertise. Role requires Senior Manager title with multi-team ownership; ",
+    "relevance": "Medium",
+    "technical_fit": "Strong in validation & architecture; weak in networking domain expertise and team leadership scale required for Senior M",
+    "seniority_alignment": "Misaligned: candidate is IC-track solutions architect/engineer; role requires proven multi-team people leadership at man",
+    "overall_quality": "Medium",
+    "company_assessment": "HPE is large enterprise infrastructure/networking vendor. Role focuses on solution validation leadership across networking portfolios\u2014requires domain depth and ",
+    "quality_score": 42
+   }
+  },
+  "jobspipe:75252484": {
+   "label": "Low Match",
+   "score": 48,
+   "reason": "Candidate excels at solution architecture, customer technical engagement, and validation (core SE skills), but this role emphasizes team leadership at scale and networking domain expertise. Candidate lacks demonstrated large-team management",
+   "composite": "hewlett-packard-enterprise|senior-manager-solution-engineering|bengaluru-india",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate excels at solution architecture, customer technical engagement, and validation (core SE skills), but this role emphasizes team leadership at scale and networking domain expertise. Candidate lacks demonstrated large-team management",
+    "relevance": "Medium",
+    "technical_fit": "Strong in solution validation and architecture; weak in team leadership at scale and networking domain expertise.",
+    "seniority_alignment": "Below target. Role requires proven large-team management; candidate has individual contributor and small-team background",
+    "overall_quality": "Medium",
+    "company_assessment": "HPE: multinational enterprise IT infrastructure and networking vendor. Role focuses on solution validation leadership for networking products\u2014significant domain",
+    "quality_score": 48
+   }
+  },
+  "jobspipe:7badce498c9b9f16": {
+   "label": "Low Match",
+   "score": 45,
+   "reason": "Candidate has strong architecture, customer-facing, and technical delivery background (Solutions Engineer tier primary match). However, role is a *Senior Manager* requiring substantial people leadership, team mentoring, and organizational c",
+   "composite": "hewlett-packard-enterprise-hpe|senior-manager-solution-engineering|bengaluru-karnataka",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong architecture, customer-facing, and technical delivery background (Solutions Engineer tier primary match). However, role is a *Senior Manager* requiring substantial people leadership, team mentoring, and organizational c",
+    "relevance": "Medium",
+    "technical_fit": "Strong in solution validation & architecture; networking/EDA domain gap. GenAI systems experience less relevant here.",
+    "seniority_alignment": "Significant stretch. Candidate is IC/senior IC; role is management-heavy (team lead, mentoring, org leadership). No dire",
+    "overall_quality": "Medium",
+    "company_assessment": "HPE: large enterprise infrastructure/networking vendor. Role focuses on solution validation, team leadership, and networking product portfolios across enterpris",
+    "quality_score": 45
    }
   },
   "jobspipe:7d9cfd185cfc782a": {
@@ -4560,6 +4826,25 @@
     "overall_quality": "Medium",
     "company_assessment": "Curriculum Associates: large EdTech (2,500+ employees, 50+ yrs), K-8 learning platform (i-Ready serves ~1/3 US K-8). Mature, regulated, complex ecosystem.",
     "quality_score": 58
+   }
+  },
+  "jobspipe:846d541517cc90d3": {
+   "label": "Low Match",
+   "score": 42,
+   "reason": "Candidate's strength in technical architecture & customer engagement aligns with solution focus; however, role is fundamentally a managed team leadership position. Candidate has no demonstrated direct reports, performance management, or org",
+   "composite": "hewlett-packard-enterprise-hpe|senior-manager-solution-engineering|bengaluru-karnataka",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate's strength in technical architecture & customer engagement aligns with solution focus; however, role is fundamentally a managed team leadership position. Candidate has no demonstrated direct reports, performance management, or org",
+    "relevance": "Medium",
+    "technical_fit": "Strong GenAI & systems architecture; weak in networking/HPE portfolio domain. Team leadership experience limited to peer",
+    "seniority_alignment": "Partial. 13yr experience & Senior-level background fit; however, lacks proven people management track record at manager+",
+    "overall_quality": "Medium",
+    "company_assessment": "HPE: enterprise networking & infrastructure. Senior Manager role demands team leadership, solution validation discipline, cross-functional coordination at scale",
+    "quality_score": 42
    }
   },
   "jobspipe:8629999002": {
@@ -4923,6 +5208,25 @@
     "quality_score": 78
    }
   },
+  "jobspipe:e7ae5820c948ad3a": {
+   "label": "Good Match",
+   "score": 78,
+   "reason": "Excellent match on agentic AI, enterprise architecture, and business translation skills. Strong software engineering foundation (C++, multithreading, systems design). Seniority and customer-facing acumen align. Gaps: TypeScript/Node.js and ",
+   "composite": "icf|senior-agentic-enterprise-solutions-engineer|delhi",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Good Match",
+    "reason": "Excellent match on agentic AI, enterprise architecture, and business translation skills. Strong software engineering foundation (C++, multithreading, systems design). Seniority and customer-facing acumen align. Gaps: TypeScript/Node.js and ",
+    "relevance": "High",
+    "technical_fit": "Strong: Python, C++, REST APIs, cloud platforms (AWS). Gap: TypeScript/Node.js and Azure expertise needed; has GenAI/age",
+    "seniority_alignment": "Aligned: 13 yrs exp vs 6+ required. Senior title fits; however, role emphasizes hands-on coding\u2014candidate's recent focus",
+    "overall_quality": "High",
+    "company_assessment": "ICF is a large consulting/tech services firm. Role targets enterprise AI solutions, Token Allocation System. Candidate's enterprise delivery and GenAI architect",
+    "quality_score": 78
+   }
+  },
   "jobspipe:f0ba2284f67fc30b": {
    "label": "Low Match",
    "score": 52,
@@ -4959,6 +5263,25 @@
     "overall_quality": "Medium",
     "company_assessment": "ASSA ABLOY: Global security/access control leader, 150+ yr heritage, 63k+ employees. Enterprise-grade, mission-critical systems. Established org, not startup.",
     "quality_score": 42
+   }
+  },
+  "jobspipe:f26827e27e57b609": {
+   "label": "Low Match",
+   "score": 52,
+   "reason": "Candidate has strong systems engineering, architecture, and automation pedigree, but domain mismatch is material. Role demands deep networking/Linux/Ixia expertise; candidate's background is EDA/GenAI. Customer-facing skills transfer well. ",
+   "composite": "hewlett-packard-enterprise-hpe|senior-solution-validation-engineer|bengaluru-karnataka",
+   "first_seen": "2026-10-01",
+   "last_scored": "2026-10-01",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "Candidate has strong systems engineering, architecture, and automation pedigree, but domain mismatch is material. Role demands deep networking/Linux/Ixia expertise; candidate's background is EDA/GenAI. Customer-facing skills transfer well. ",
+    "relevance": "Medium",
+    "technical_fit": "Strong C++, Python, multithreading; weak in networking, Linux internals, Ixia/performance testing, CI/CD at scale",
+    "seniority_alignment": "Aligned. 13 years experience, senior-level track record; role expects senior engineer maturity",
+    "overall_quality": "Medium",
+    "company_assessment": "HPE: large enterprise infrastructure/networking vendor. Role is solution validation & QA automation for networking products\u2014not core domain fit",
+    "quality_score": 52
    }
   },
   "jobspipe:f509738c7b2a0037": {
