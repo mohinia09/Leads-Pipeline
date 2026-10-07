@@ -1,6 +1,6 @@
 {
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
- "updated": "2026-10-05",
+ "updated": "2026-10-07",
  "jobs": {
   "jobspipe:/job/Chennai---Menon-Eternity/IN-Manager--Agentic-AI-Engineer--Data-Analytics--Advisory--Bangalore_696051WD-1": {
    "label": "Good Match",
@@ -3574,6 +3574,25 @@
     "quality_score": 42
    }
   },
+  "jobspipe:4467453002": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "atlassian|principal-engineer|bengaluru-karnataka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:4467830873": {
    "label": "Good Match",
    "score": 72,
@@ -5094,6 +5113,82 @@
     "quality_score": 0
    }
   },
+  "jobspipe:4474027547": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "gorec-solutions|solutions-architect|greater-bengaluru-area",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4474056708": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "capgemini-engineering|agentic-ai-architect|gurugram-haryana-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4474058859": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "cloudthat|senior-solutions-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4474061225": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "crystal-group|full-stack-technical-lead|mumbai-maharashtra-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:4474200476": {
    "label": "Low Match",
    "score": 0,
@@ -5120,6 +5215,25 @@
    "composite": "brightedge|senior-technical-lead|india",
    "first_seen": "2026-10-05",
    "last_scored": "2026-10-05",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4474664907": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "agiliad|technical-lead|bengaluru-karnataka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
    "written": false,
    "match": {
     "label": "Low Match",
@@ -5208,6 +5322,25 @@
     "quality_score": 0
    }
   },
+  "jobspipe:4475146531": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "talentgigs|salesforce-health-cloud-solution-architect|india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:4475366779": {
    "label": "Low Match",
    "score": 0,
@@ -5215,6 +5348,139 @@
    "composite": "starzen|technical-lead|gurugram-haryana-india",
    "first_seen": "2026-10-05",
    "last_scored": "2026-10-05",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4476144975": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "bosch-global-software-technologies|cybersecurity-solution-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4476154192": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "incedo-inc|technical-lead|pune-district-maharashtra-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4476166553": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "sima-ai|principal-engineer-system-hardware-design|bengaluru-karnataka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4476171520": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "renesas-electronics|senior-staff-principal-engineer-ams-verification|bengaluru-karnataka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4476538671": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "tata-consultancy-services|aws-solution-architect|hyderabad-telangana-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:5ad5920fe9129487": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "mukizh-fashions|senior-solution-engineer|mumbai-maharashtra",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:5cf406407b9789dd": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "mukizh-fashions|senior-solution-engineer|mumbai-maharashtra",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
    "written": false,
    "match": {
     "label": "Low Match",
@@ -5396,6 +5662,44 @@
     "overall_quality": "High",
     "company_assessment": "Bosch Group: massive diversified industrial conglomerate (30.5K+ India workforce, \u20ac3.1B revenue). India dev hub for automotive, IoT, enterprise software. Stable",
     "quality_score": 78
+   }
+  },
+  "jobspipe:744000153756219": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "linkedin|senior-solutions-architect|bengaluru-ka-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:744000153832184": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "bosch-group|ai-solution-architect|bangalore-india",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
    }
   },
   "jobspipe:745681bd328d5e8d": {
@@ -5683,6 +5987,25 @@
     "quality_score": 48
    }
   },
+  "jobspipe:967aae7e5c50356b": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "fugened-an-incubation-center|technical-architect-solution-architect-product-manager-senior-engineering-manager|bangalore-city-bengaluru-karnataka",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:ae88c503c3d1b89a": {
    "label": "Low Match",
    "score": 42,
@@ -5797,6 +6120,25 @@
     "quality_score": 28
    }
   },
+  "jobspipe:be178d1982af935b": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "lloyds-technology-centre|senior-solution-architect|hyderabad-telangana",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:be18915bddc1a1af": {
    "label": "Low Match",
    "score": 58,
@@ -5909,6 +6251,25 @@
     "overall_quality": "Medium",
     "company_assessment": "WebSenor InfoTech: cybersecurity platform provider, cloud-scale ops managing millions of endpoints/assets. Mid-stage SaaS likely.",
     "quality_score": 58
+   }
+  },
+  "jobspipe:dea14eccda314857": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+   "composite": "fugened|technical-architect|bangalore-city-bengaluru-karnataka",
+   "first_seen": "2026-10-07",
+   "last_scored": "2026-10-07",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
    }
   },
   "jobspipe:e4717c21d29e74c5": {
