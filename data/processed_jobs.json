@@ -1,6 +1,6 @@
 {
  "resume_sha256": "a1d9174f014332708c2d8c78733cfc8139b7fc555c78a4553913f23177192e2e",
- "updated": "2026-10-23",
+ "updated": "2026-10-25",
  "jobs": {
   "jobspipe:/job/Chennai---Menon-Eternity/IN-Manager--Agentic-AI-Engineer--Data-Analytics--Advisory--Bangalore_696051WD-1": {
    "label": "Good Match",
@@ -1028,6 +1028,25 @@
     "quality_score": 58
    }
   },
+  "jobspipe:4434889078": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbAUpcFrsjX1u3Y4k3'}",
+   "composite": "soarix|founding-principal-engineer|hyderabad-telangana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbAUpcFrsjX1u3Y4k3'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:4437563158": {
    "label": "Good Match",
    "score": 82,
@@ -1292,6 +1311,44 @@
     "overall_quality": "Medium",
     "company_assessment": "PepsiCo: large CPG enterprise, S&T org driving digital transformation. Seeks seasoned principal architect + team leader for platform/solution engineering strate",
     "quality_score": 52
+   }
+  },
+  "jobspipe:4446707860": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb8r7DHU22u1BvmMWV'}",
+   "composite": "salesforce|salesforce-solution-architect-senior-solution-architect-lifesciences|bengaluru-karnataka-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb8r7DHU22u1BvmMWV'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4446708912": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbBGx6AYBzCy9bnmAL'}",
+   "composite": "salesforce|salesforce-solution-architect|hyderabad-telangana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbBGx6AYBzCy9bnmAL'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
    }
   },
   "jobspipe:4446865106": {
@@ -1615,6 +1672,25 @@
     "overall_quality": "High",
     "company_assessment": "PwC Acceleration Center India\u2014large consulting firm's R&D hub. Data science & analytics focus; enterprise-scale client delivery across Advisory, Assurance, Tax",
     "quality_score": 82
+   }
+  },
+  "jobspipe:4455913273": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbCqxskTSbpo6dURG6'}",
+   "composite": "amazon-web-services-aws|senior-solutions-architecture-manager|mumbai-maharashtra-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbCqxskTSbpo6dURG6'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
    }
   },
   "jobspipe:4456261201": {
@@ -7735,6 +7811,25 @@
     "quality_score": 0
    }
   },
+  "jobspipe:4480633499": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbDFmKotfpn8pvJmFd'}",
+   "composite": "ibm|solution-architect|hyderabad-telangana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbDFmKotfpn8pvJmFd'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:4480893943": {
    "label": "Low Match",
    "score": 0,
@@ -7841,6 +7936,139 @@
    "match": {
     "label": "Low Match",
     "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgEobS8YLZ6ZVrfB64Koc'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481015819": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb9hCzJLdaCzviTceC'}",
+   "composite": "oracle|ai-architect|hyderabad-telangana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb9hCzJLdaCzviTceC'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481018656": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb7cSZPcZbmcoieCVZ'}",
+   "composite": "misticusmind-inc|ai-architect|pune-city-maharashtra-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb7cSZPcZbmcoieCVZ'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481033137": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb8T3erYGTc9kecoZw'}",
+   "composite": "people-equation|principal-engineer|kochi-kerala-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb8T3erYGTc9kecoZw'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481033154": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbA61oeAn1QSezcMn5'}",
+   "composite": "oracle|ai-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbA61oeAn1QSezcMn5'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481036021": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb6SV6Tu38vuKQ5BgL'}",
+   "composite": "oracle|ai-architect|pune-division-maharashtra-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb6SV6Tu38vuKQ5BgL'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481039788": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb83Uw6BfiEFXovrAu'}",
+   "composite": "ibm|solution-architect|gurgaon-haryana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb83Uw6BfiEFXovrAu'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481082242": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb5HXp16XUBsaeonGK'}",
+   "composite": "prodigy-systems-and-services-private-limited|principal-engineer|hyderabad-telangana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb5HXp16XUBsaeonGK'}",
     "relevance": "",
     "technical_fit": "",
     "seniority_alignment": "",
@@ -7963,6 +8191,101 @@
     "quality_score": 0
    }
   },
+  "jobspipe:4481649352": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbE5se28RPLwcMuqek'}",
+   "composite": "lexitas|principal-devops-engineer|chennai-tamil-nadu-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbE5se28RPLwcMuqek'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4481657511": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbDgoPcRvny5TZfEqs'}",
+   "composite": "dover-india|principal-engineer|bengaluru-karnataka-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbDgoPcRvny5TZfEqs'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4482375717": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb6q48KviRexWrxXYy'}",
+   "composite": "papigen|senior-tech-lead-ai-orchestrator-outsystems-plan-strategy-ai-drafting|india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb6q48KviRexWrxXYy'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4482381798": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb5gMdQ9o6FARWc7Ys'}",
+   "composite": "talentgigs|salesforce-solution-architect|india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb5gMdQ9o6FARWc7Ys'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4482384952": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb9FQfriVThee1qVnG'}",
+   "composite": "neoaistriq|lead-forward-deployed-ai-engineer|india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb9FQfriVThee1qVnG'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
   "jobspipe:4482422860": {
    "label": "Low Match",
    "score": 0,
@@ -8012,6 +8335,101 @@
    "match": {
     "label": "Low Match",
     "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgJbRFxhYNnM7oGDfnJ4b'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4482623935": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb7EcJrkxDreuxUzV4'}",
+   "composite": "arm|principal-engineer-soc-verification|bengaluru-karnataka-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb7EcJrkxDreuxUzV4'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4482630934": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb64v84nGf8YBBdsGA'}",
+   "composite": "tata-consultancy-services|oracle-cpq-solution-architect|bengaluru-karnataka-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb64v84nGf8YBBdsGA'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4482680267": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb4tUwCQkknAQguWY7'}",
+   "composite": "omvrti-ai|hiring-for-lead-software-engineer-tech-lead-new-delhi|new-delhi-delhi-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNb4tUwCQkknAQguWY7'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4483309625": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbBgWEmtDxjFEzRTqU'}",
+   "composite": "tata-consultancy-services|sap-fiori-technical-lead|kolkata-west-bengal-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbBgWEmtDxjFEzRTqU'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:4483315338": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbAsPYxsEt5LCFqE7Q'}",
+   "composite": "angel-and-genie|technical-lead|hyderabad-telangana-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbAsPYxsEt5LCFqE7Q'}",
     "relevance": "",
     "technical_fit": "",
     "seniority_alignment": "",
@@ -8335,6 +8753,25 @@
    "match": {
     "label": "Low Match",
     "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgEobRGxHTbETf34x2T3H'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
+   }
+  },
+  "jobspipe:744000157502119": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbC5Kq5v282bgQkReV'}",
+   "composite": "western-digital|principal-data-analytics-engineer|bengaluru-ka-india",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbC5Kq5v282bgQkReV'}",
     "relevance": "",
     "technical_fit": "",
     "seniority_alignment": "",
@@ -8683,6 +9120,25 @@
     "overall_quality": "Low",
     "company_assessment": "Tech Next appears to be a ServiceNow consulting/implementation firm. Remote India contract role requiring TPRM domain expertise.",
     "quality_score": 15
+   }
+  },
+  "jobspipe:8d7a122c18501c70": {
+   "label": "Low Match",
+   "score": 0,
+   "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbCTPyC4Uk7iRf5eQr'}",
+   "composite": "github|senior-solutions-engineer|remote",
+   "first_seen": "2026-10-25",
+   "last_scored": "2026-10-25",
+   "written": false,
+   "match": {
+    "label": "Low Match",
+    "reason": "AI assess failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgNNbCTPyC4Uk7iRf5eQr'}",
+    "relevance": "",
+    "technical_fit": "",
+    "seniority_alignment": "",
+    "overall_quality": "",
+    "company_assessment": "",
+    "quality_score": 0
    }
   },
   "jobspipe:905b85d90be05f16": {
